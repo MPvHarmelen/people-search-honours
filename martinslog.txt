@@ -1,0 +1,4 @@
+07-10-2015
+Added association file format to ears-confs
+Removed 'topic-' prefix from tu qrels.
+Reran uk & nl (not 100 cond, how about removing them?)
