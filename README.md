@@ -5,14 +5,14 @@ First of all, if you're not going to change any settings, you probably don't wan
 to run Indri or Ears again, but just use one of the output files (to be found in `output/`).
 
 ### Creating an index with IndriBuildIndex
-To create an index choose an appropriate Indri configuration file (to be found in `confs-indri`). Make sure the paths specified are correct relative to you working directory and run the following command:
+To create an index choose an appropriate Indri configuration file (to be found in `confs-indri`). Make sure the paths specified in the configuration file are correct relative to you working directory and run the following command:
 
     `IndriBuildIndex path/to/conf/file.conf`
 
 In an Indri configuration file the `index` parameter specifies the location for the index to be stored at. The `corpus` parameters specify which files to use as corpus and what format they are in.
 
 ### Creating a ranking with Ears
-After you have built an Index you can take some queries and use Ears to run the queries on the Index. This takes a *long* time (about 10 min on a 2.4 GHz Intel). Again, choose an appropriate configuration file (to be found in `confs-ears` this time) and make sure the paths specified are correct relative to you working directory. Run the following command, sit back and relax.
+After you have built an Index you can take some queries and use Ears to run the queries on the Index. This takes a *long* time (about 10 min on a 2.4 GHz Intel). Again, choose an appropriate configuration file (to be found in `confs-ears` this time) and make sure the paths specified in the configuration file are correct relative to you working directory. Run the following command, sit back and relax.
 
     `ears ef path/to/conf/file.conf`
 
