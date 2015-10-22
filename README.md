@@ -14,7 +14,7 @@ In an Indri configuration file the `index` parameter specifies the location for 
 ### Creating a ranking with Ears
 After you have built an Index you can take some queries and use Ears to run the queries on the Index. This takes a *long* time (about 10 min on a 2.4 GHz Intel). Again, choose an appropriate configuration file (to be found in `confs-ears` this time) and make sure the paths specified in the configuration file are correct relative to you working directory. Run the following command, sit back and relax.
 
-    `ears ef path/to/conf/file.conf`
+    `ears ef path/to/conf_file.conf`
 
 This time the configuration file is a bit more interesting, but before I tell you what it does, I would like to share some thoughts on how to use these configuration files.
 
@@ -24,18 +24,35 @@ Yes. That is would you should do. Now let that be a lesson to you. Now you're al
 
     - `outputFileFormat`
     - `smoothingMethod`
+    - `smoothingParam`
     - `associationFileFormat`
     - `associationFile`
     - `task` (although I don't think changing it has any effect)
 
-These already have a working value and things could break if you change them. Settings I have no idea what they do are:
-
-    - `runID`   probably adds some identifier to the run, but I have no idea where and how it is stored
-    - `outputNum`   I just have no clue what this setting does
-
 Settings you could change:
 
+    - `runID`   Stores an identifier for this run, for your convenience
     - `model`
     - `index`
     - `queryFile`
     - `outputFile`
+
+For more info on which parameters you could use, check the [manual](https://code.google.com/p/ears/wiki/Parameters).
+
+## Running trec_eval
+
+ - `trec_eval -m all_trec -q <ground_truth> <model_result>`
+
+# Naming convention
+All files that differ for different experiments should have their as follows:
+
+`<corpus id>-<language>-model<model number>-<smoothing method>-<experiment id>.<extension>`
+
+Like this, we can easily keep track of what the \*\*\*\* we did during which experiment.
+
+# Running EARS and trec_eval in a oner
+Make sure your ears conf file ends with `.conf` and saves the output to `output/some_name.out`. To run ears and trec_eval in one command, cd to the base directory of this repository (probably `people-search-honours`) and run the following command:
+
+ - `ears_and_trec.sh path/to/conf_file.conf`
+
+And voilà, you can find your trec results under `trec_out`, with the same filename as the conf file, but with `.conf` replaced by `.gt1` and `.gt5` to refer to the ground truths.
