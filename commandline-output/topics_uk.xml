@@ -1,0 +1,10045 @@
+<parameters>
+    <query>
+        <number>12001</number>
+        <text>1
+samuel
+</text>
+    </query>
+    <query>
+        <number>12722</number>
+        <text>recommender
+system
+</text>
+    </query>
+    <query>
+        <number>2117</number>
+        <text>attentiveness
+</text>
+    </query>
+    <query>
+        <number>2484</number>
+        <text>stocks
+</text>
+    </query>
+    <query>
+        <number>4285</number>
+        <text>equity
+market
+</text>
+    </query>
+    <query>
+        <number>3721</number>
+        <text>liability
+law
+</text>
+    </query>
+    <query>
+        <number>16844</number>
+        <text>absorptive
+capacity
+</text>
+    </query>
+    <query>
+        <number>1274</number>
+        <text>accountancy
+</text>
+    </query>
+    <query>
+        <number>5882</number>
+        <text>auditors
+</text>
+    </query>
+    <query>
+        <number>1275</number>
+        <text>auditing
+</text>
+    </query>
+    <query>
+        <number>1276</number>
+        <text>accounting
+</text>
+    </query>
+    <query>
+        <number>1953</number>
+        <text>acculturation
+</text>
+    </query>
+    <query>
+        <number>1919</number>
+        <text>actual
+pastoral
+liturgical
+practice
+</text>
+    </query>
+    <query>
+        <number>1980</number>
+        <text>adhd
+</text>
+    </query>
+    <query>
+        <number>4079</number>
+        <text>administrative
+law
+</text>
+    </query>
+    <query>
+        <number>1277</number>
+        <text>information
+systems
+organisation
+</text>
+    </query>
+    <query>
+        <number>1278</number>
+        <text>administrative
+techniques
+</text>
+    </query>
+    <query>
+        <number>2276</number>
+        <text>adorno
+</text>
+    </query>
+    <query>
+        <number>2250</number>
+        <text>africa
+</text>
+    </query>
+    <query>
+        <number>2496</number>
+        <text>agents
+</text>
+    </query>
+    <query>
+        <number>6722</number>
+        <text>agoraphobia
+</text>
+    </query>
+    <query>
+        <number>501</number>
+        <text>agribusiness
+food
+chainmanagement
+</text>
+    </query>
+    <query>
+        <number>1280</number>
+        <text>agricultural
+economy
+</text>
+    </query>
+    <query>
+        <number>7782</number>
+        <text>aggression
+</text>
+    </query>
+    <query>
+        <number>5124</number>
+        <text>alcohol
+addiction
+</text>
+    </query>
+    <query>
+        <number>2500</number>
+        <text>econometrics
+</text>
+    </query>
+    <query>
+        <number>2501</number>
+        <text>alliances
+joint
+ventures
+</text>
+    </query>
+    <query>
+        <number>1285</number>
+        <text>foreigners
+</text>
+    </query>
+    <query>
+        <number>2258</number>
+        <text>alternative
+interpretation
+systems
+</text>
+    </query>
+    <query>
+        <number>13601</number>
+        <text>theology
+ministry
+</text>
+    </query>
+    <query>
+        <number>4099</number>
+        <text>american
+pragmatism
+</text>
+    </query>
+    <query>
+        <number>12181</number>
+        <text>american
+constitutional
+law
+</text>
+    </query>
+    <query>
+        <number>10501</number>
+        <text>americanization
+</text>
+    </query>
+    <query>
+        <number>12241</number>
+        <text>amnesty
+laws
+</text>
+    </query>
+    <query>
+        <number>2507</number>
+        <text>analysis
+</text>
+    </query>
+    <query>
+        <number>16165</number>
+        <text>frame
+analysis
+</text>
+    </query>
+    <query>
+        <number>9362</number>
+        <text>anxiety
+</text>
+    </query>
+    <query>
+        <number>1287</number>
+        <text>anorexia
+nervosa
+</text>
+    </query>
+    <query>
+        <number>16802</number>
+        <text>antarctic
+arctic
+polar
+regions
+</text>
+    </query>
+    <query>
+        <number>5622</number>
+        <text>ancient
+philosophy
+history
+</text>
+    </query>
+    <query>
+        <number>1289</number>
+        <text>anthropology
+</text>
+    </query>
+    <query>
+        <number>1290</number>
+        <text>anthropology
+philosophy
+religion
+relation
+</text>
+    </query>
+    <query>
+        <number>1291</number>
+        <text>arabic
+</text>
+    </query>
+    <query>
+        <number>2509</number>
+        <text>arabic
+language
+culture
+</text>
+    </query>
+    <query>
+        <number>6641</number>
+        <text>labour
+</text>
+    </query>
+    <query>
+        <number>1292</number>
+        <text>labour
+health
+</text>
+    </query>
+    <query>
+        <number>1293</number>
+        <text>industrial
+organisational
+psychology
+</text>
+    </query>
+    <query>
+        <number>13761</number>
+        <text>work
+attitudes
+</text>
+    </query>
+    <query>
+        <number>6581</number>
+        <text>working
+hours
+</text>
+    </query>
+    <query>
+        <number>1296</number>
+        <text>labour
+economics
+</text>
+    </query>
+    <query>
+        <number>2201</number>
+        <text>labour
+market
+</text>
+    </query>
+    <query>
+        <number>6603</number>
+        <text>labour
+market
+policy
+</text>
+    </query>
+    <query>
+        <number>8982</number>
+        <text>labour
+market
+segmentation
+</text>
+    </query>
+    <query>
+        <number>1298</number>
+        <text>labour
+market
+issues
+</text>
+    </query>
+    <query>
+        <number>6601</number>
+        <text>mobility
+labour
+</text>
+    </query>
+    <query>
+        <number>1299</number>
+        <text>job
+motivation
+</text>
+    </query>
+    <query>
+        <number>6661</number>
+        <text>working
+conditions
+</text>
+    </query>
+    <query>
+        <number>1300</number>
+        <text>work
+participation
+</text>
+    </query>
+    <query>
+        <number>1301</number>
+        <text>labour
+law
+</text>
+    </query>
+    <query>
+        <number>1303</number>
+        <text>reduction
+working
+hours
+</text>
+    </query>
+    <query>
+        <number>1302</number>
+        <text>industrial
+labour
+relations
+</text>
+    </query>
+    <query>
+        <number>1305</number>
+        <text>working
+conditions
+creation
+</text>
+    </query>
+    <query>
+        <number>1306</number>
+        <text>labour
+issues
+</text>
+    </query>
+    <query>
+        <number>4081</number>
+        <text>arbitration
+</text>
+    </query>
+    <query>
+        <number>1307</number>
+        <text>working
+conditions
+</text>
+    </query>
+    <query>
+        <number>10321</number>
+        <text>archaeology
+</text>
+    </query>
+    <query>
+        <number>10324</number>
+        <text>archaeology
+near
+east
+</text>
+    </query>
+    <query>
+        <number>3937</number>
+        <text>reasoning
+</text>
+    </query>
+    <query>
+        <number>5627</number>
+        <text>aristoteles
+</text>
+    </query>
+    <query>
+        <number>2517</number>
+        <text>poverty
+</text>
+    </query>
+    <query>
+        <number>2519</number>
+        <text>asylum
+seekers
+</text>
+    </query>
+    <query>
+        <number>1309</number>
+        <text>asset
+liability
+management
+</text>
+    </query>
+    <query>
+        <number>21</number>
+        <text>attitudes
+</text>
+    </query>
+    <query>
+        <number>1937</number>
+        <text>audiovisual
+interaction
+brain
+</text>
+    </query>
+    <query>
+        <number>1311</number>
+        <text>audiovisual
+semiotics
+</text>
+    </query>
+    <query>
+        <number>6701</number>
+        <text>auditory
+perception
+</text>
+    </query>
+    <query>
+        <number>3542</number>
+        <text>augustine
+</text>
+    </query>
+    <query>
+        <number>1312</number>
+        <text>copyrights
+</text>
+    </query>
+    <query>
+        <number>3706</number>
+        <text>autism
+</text>
+    </query>
+    <query>
+        <number>1313</number>
+        <text>automatic
+language
+analysis
+</text>
+    </query>
+    <query>
+        <number>5802</number>
+        <text>automatic
+translation
+</text>
+    </query>
+    <query>
+        <number>3966</number>
+        <text>automation
+</text>
+    </query>
+    <query>
+        <number>1905</number>
+        <text>autonomy
+moral
+</text>
+    </query>
+    <query>
+        <number>10981</number>
+        <text>autonomy
+psychology
+</text>
+    </query>
+    <query>
+        <number>6385</number>
+        <text>asia
+</text>
+    </query>
+    <query>
+        <number>3702</number>
+        <text>infants
+</text>
+    </query>
+    <query>
+        <number>81</number>
+        <text>work
+life
+balance
+</text>
+    </query>
+    <query>
+        <number>1315</number>
+        <text>balance
+reading
+</text>
+    </query>
+    <query>
+        <number>8521</number>
+        <text>baltic
+</text>
+    </query>
+    <query>
+        <number>2527</number>
+        <text>bank
+firm
+relationships
+</text>
+    </query>
+    <query>
+        <number>5721</number>
+        <text>banking
+law
+</text>
+    </query>
+    <query>
+        <number>1316</number>
+        <text>banking
+systems
+</text>
+    </query>
+    <query>
+        <number>1317</number>
+        <text>basic
+income
+</text>
+    </query>
+    <query>
+        <number>1318</number>
+        <text>primary
+education
+</text>
+    </query>
+    <query>
+        <number>5221</number>
+        <text>bayesian
+statistics
+</text>
+    </query>
+    <query>
+        <number>2306</number>
+        <text>pilgrimage
+pilgrimage
+</text>
+    </query>
+    <query>
+        <number>4283</number>
+        <text>corporate
+policy
+strategy
+</text>
+    </query>
+    <query>
+        <number>1998</number>
+        <text>business
+communication
+ethics
+</text>
+    </query>
+    <query>
+        <number>5551</number>
+        <text>business
+modelling
+</text>
+    </query>
+    <query>
+        <number>1320</number>
+        <text>business
+economics
+</text>
+    </query>
+    <query>
+        <number>1321</number>
+        <text>business
+ethics
+</text>
+    </query>
+    <query>
+        <number>2532</number>
+        <text>business
+</text>
+    </query>
+    <query>
+        <number>15222</number>
+        <text>firm
+relocation
+</text>
+    </query>
+    <query>
+        <number>7801</number>
+        <text>companies
+</text>
+    </query>
+    <query>
+        <number>2170</number>
+        <text>companies
+internet
+</text>
+    </query>
+    <query>
+        <number>17083</number>
+        <text>image
+analysis
+</text>
+    </query>
+    <query>
+        <number>781</number>
+        <text>iconography
+christian
+</text>
+    </query>
+    <query>
+        <number>17082</number>
+        <text>image
+recognition
+</text>
+    </query>
+    <query>
+        <number>8685</number>
+        <text>bounded
+rationality
+</text>
+    </query>
+    <query>
+        <number>5681</number>
+        <text>information
+systems
+management
+</text>
+    </query>
+    <query>
+        <number>1324</number>
+        <text>dexterity
+games
+</text>
+    </query>
+    <query>
+        <number>2290</number>
+        <text>convertion
+proselytization
+</text>
+    </query>
+    <query>
+        <number>16122</number>
+        <text>tax
+policy
+</text>
+    </query>
+    <query>
+        <number>2536</number>
+        <text>taxes
+</text>
+    </query>
+    <query>
+        <number>1327</number>
+        <text>tax
+law
+</text>
+    </query>
+    <query>
+        <number>1328</number>
+        <text>investment
+</text>
+    </query>
+    <query>
+        <number>11441</number>
+        <text>investor
+behaviour
+</text>
+    </query>
+    <query>
+        <number>6461</number>
+        <text>mutual
+fund
+</text>
+    </query>
+    <query>
+        <number>6761</number>
+        <text>policy
+</text>
+    </query>
+    <query>
+        <number>1330</number>
+        <text>policy
+management
+</text>
+    </query>
+    <query>
+        <number>1331</number>
+        <text>policy
+evaluation
+</text>
+    </query>
+    <query>
+        <number>4681</number>
+        <text>mediation
+</text>
+    </query>
+    <query>
+        <number>9022</number>
+        <text>assertive
+outreach
+</text>
+    </query>
+    <query>
+        <number>5628</number>
+        <text>benjamin
+</text>
+    </query>
+    <query>
+        <number>2541</number>
+        <text>berber
+language
+</text>
+    </query>
+    <query>
+        <number>1997</number>
+        <text>occupational
+ethics
+</text>
+    </query>
+    <query>
+        <number>15902</number>
+        <text>occupational
+ethics
+ministers
+</text>
+    </query>
+    <query>
+        <number>1963</number>
+        <text>occupational
+ethics
+psychologists
+</text>
+    </query>
+    <query>
+        <number>16002</number>
+        <text>vocational
+education
+</text>
+    </query>
+    <query>
+        <number>4353</number>
+        <text>occupational
+diseases
+</text>
+    </query>
+    <query>
+        <number>16804</number>
+        <text>protected
+species
+</text>
+    </query>
+    <query>
+        <number>2542</number>
+        <text>decision
+theory
+</text>
+    </query>
+    <query>
+        <number>2643</number>
+        <text>decision
+support
+systems
+</text>
+    </query>
+    <query>
+        <number>6807</number>
+        <text>decision
+making
+</text>
+    </query>
+    <query>
+        <number>5543</number>
+        <text>ordering
+systems
+</text>
+    </query>
+    <query>
+        <number>5683</number>
+        <text>operating
+systems
+</text>
+    </query>
+    <query>
+        <number>1337</number>
+        <text>information
+management
+technology
+</text>
+    </query>
+    <query>
+        <number>1338</number>
+        <text>administrative
+reform
+</text>
+    </query>
+    <query>
+        <number>1340</number>
+        <text>management
+non
+profit
+organisations
+</text>
+    </query>
+    <query>
+        <number>1341</number>
+        <text>public
+administration
+</text>
+    </query>
+    <query>
+        <number>3792</number>
+        <text>administrative
+procedural
+law
+</text>
+    </query>
+    <query>
+        <number>1342</number>
+        <text>administrative
+law
+</text>
+    </query>
+    <query>
+        <number>10965</number>
+        <text>governance
+systems
+</text>
+    </query>
+    <query>
+        <number>3331</number>
+        <text>stock
+exchange
+</text>
+    </query>
+    <query>
+        <number>9481</number>
+        <text>security
+systems
+network
+</text>
+    </query>
+    <query>
+        <number>8942</number>
+        <text>consciousness
+</text>
+    </query>
+    <query>
+        <number>2422</number>
+        <text>library
+information
+systems
+</text>
+    </query>
+    <query>
+        <number>2229</number>
+        <text>big
+five
+factor
+model
+personality
+</text>
+    </query>
+    <query>
+        <number>2278</number>
+        <text>bible
+</text>
+    </query>
+    <query>
+        <number>2332</number>
+        <text>bible
+literature
+</text>
+    </query>
+    <query>
+        <number>16882</number>
+        <text>bible
+culture
+</text>
+    </query>
+    <query>
+        <number>2330</number>
+        <text>bible
+translations
+</text>
+    </query>
+    <query>
+        <number>1344</number>
+        <text>bible
+exegesis
+</text>
+    </query>
+    <query>
+        <number>1345</number>
+        <text>bible
+hebrew
+</text>
+    </query>
+    <query>
+        <number>1346</number>
+        <text>bible
+new
+testament
+</text>
+    </query>
+    <query>
+        <number>1347</number>
+        <text>bible
+old
+testament
+</text>
+    </query>
+    <query>
+        <number>1348</number>
+        <text>biodiversity
+</text>
+    </query>
+    <query>
+        <number>1349</number>
+        <text>bioethics
+</text>
+    </query>
+    <query>
+        <number>12201</number>
+        <text>biotechnology
+</text>
+    </query>
+    <query>
+        <number>12123</number>
+        <text>blanchot
+maurice
+1907
+2003
+</text>
+    </query>
+    <query>
+        <number>2255</number>
+        <text>budhism
+</text>
+    </query>
+    <query>
+        <number>1355</number>
+        <text>bulimia
+nervosa
+</text>
+    </query>
+    <query>
+        <number>1351</number>
+        <text>urban
+planning
+building
+law
+</text>
+    </query>
+    <query>
+        <number>1352</number>
+        <text>brabant
+</text>
+    </query>
+    <query>
+        <number>1353</number>
+        <text>brabant
+law
+history
+</text>
+    </query>
+    <query>
+        <number>1402</number>
+        <text>letter
+james
+</text>
+    </query>
+    <query>
+        <number>1354</number>
+        <text>budgeting
+</text>
+    </query>
+    <query>
+        <number>1356</number>
+        <text>law
+civil
+procedure
+</text>
+    </query>
+    <query>
+        <number>1357</number>
+        <text>civil
+law
+</text>
+    </query>
+    <query>
+        <number>17103</number>
+        <text>citizens
+participation
+</text>
+    </query>
+    <query>
+        <number>13521</number>
+        <text>citizenship
+</text>
+    </query>
+    <query>
+        <number>9901</number>
+        <text>burnout
+</text>
+    </query>
+    <query>
+        <number>15463</number>
+        <text>business
+process
+management
+</text>
+    </query>
+    <query>
+        <number>9783</number>
+        <text>business
+transactions
+</text>
+    </query>
+    <query>
+        <number>2564</number>
+        <text>collective
+labour
+agreements
+</text>
+    </query>
+    <query>
+        <number>1360</number>
+        <text>women
+s
+careers
+</text>
+    </query>
+    <query>
+        <number>2321</number>
+        <text>catechism
+</text>
+    </query>
+    <query>
+        <number>15022</number>
+        <text>celibacy
+</text>
+    </query>
+    <query>
+        <number>2570</number>
+        <text>central
+banks
+</text>
+    </query>
+    <query>
+        <number>5041</number>
+        <text>chemotherapy
+</text>
+    </query>
+    <query>
+        <number>6302</number>
+        <text>china
+</text>
+    </query>
+    <query>
+        <number>12461</number>
+        <text>surgery
+</text>
+    </query>
+    <query>
+        <number>11383</number>
+        <text>christian
+creed
+</text>
+    </query>
+    <query>
+        <number>4242</number>
+        <text>christian
+philosophy
+</text>
+    </query>
+    <query>
+        <number>2304</number>
+        <text>christian
+liturgy
+</text>
+    </query>
+    <query>
+        <number>2238</number>
+        <text>christian
+spirituality
+</text>
+    </query>
+    <query>
+        <number>16544</number>
+        <text>christianity
+culture
+</text>
+    </query>
+    <query>
+        <number>2195</number>
+        <text>christology
+</text>
+    </query>
+    <query>
+        <number>181</number>
+        <text>chronic
+heart
+failure
+</text>
+    </query>
+    <query>
+        <number>17142</number>
+        <text>chronic
+diseases
+</text>
+    </query>
+    <query>
+        <number>9401</number>
+        <text>chronic
+stress
+</text>
+    </query>
+    <query>
+        <number>12261</number>
+        <text>city
+marketing
+</text>
+    </query>
+    <query>
+        <number>2577</number>
+        <text>civil
+society
+</text>
+    </query>
+    <query>
+        <number>2582</number>
+        <text>cognition
+</text>
+    </query>
+    <query>
+        <number>12501</number>
+        <text>cognitive
+model
+</text>
+    </query>
+    <query>
+        <number>16982</number>
+        <text>cognitive
+behavioral
+therapy
+</text>
+    </query>
+    <query>
+        <number>4240</number>
+        <text>cognitive
+linguistics
+</text>
+    </query>
+    <query>
+        <number>1936</number>
+        <text>cognitive
+neuropsychology
+</text>
+    </query>
+    <query>
+        <number>16222</number>
+        <text>cognitive
+neuroscience
+</text>
+    </query>
+    <query>
+        <number>6681</number>
+        <text>cognitive
+processes
+</text>
+    </query>
+    <query>
+        <number>2584</number>
+        <text>cognitive
+science
+</text>
+    </query>
+    <query>
+        <number>16623</number>
+        <text>class
+actions
+</text>
+    </query>
+    <query>
+        <number>6141</number>
+        <text>collective
+labour
+agreements
+</text>
+    </query>
+    <query>
+        <number>8941</number>
+        <text>coma
+</text>
+    </query>
+    <query>
+        <number>13041</number>
+        <text>work
+family
+confict
+</text>
+    </query>
+    <query>
+        <number>2585</number>
+        <text>combinatorics
+</text>
+    </query>
+    <query>
+        <number>1361</number>
+        <text>communication
+</text>
+    </query>
+    <query>
+        <number>3484</number>
+        <text>communication
+models
+</text>
+    </query>
+    <query>
+        <number>2588</number>
+        <text>communication
+processes
+</text>
+    </query>
+    <query>
+        <number>1364</number>
+        <text>communication
+skills
+</text>
+    </query>
+    <query>
+        <number>1365</number>
+        <text>communication
+science
+</text>
+    </query>
+    <query>
+        <number>10421</number>
+        <text>communitarianism
+</text>
+    </query>
+    <query>
+        <number>16003</number>
+        <text>competence
+development
+</text>
+    </query>
+    <query>
+        <number>2591</number>
+        <text>competition
+</text>
+    </query>
+    <query>
+        <number>11944</number>
+        <text>computational
+semantics
+</text>
+    </query>
+    <query>
+        <number>2593</number>
+        <text>computer
+</text>
+    </query>
+    <query>
+        <number>2594</number>
+        <text>computer
+grammar
+</text>
+    </query>
+    <query>
+        <number>1367</number>
+        <text>computer
+bookkeeping
+</text>
+    </query>
+    <query>
+        <number>1368</number>
+        <text>computer
+crime
+</text>
+    </query>
+    <query>
+        <number>1369</number>
+        <text>computer
+</text>
+    </query>
+    <query>
+        <number>5801</number>
+        <text>computer
+linguistics
+</text>
+    </query>
+    <query>
+        <number>5684</number>
+        <text>computer
+methods
+</text>
+    </query>
+    <query>
+        <number>2596</number>
+        <text>computer
+models
+</text>
+    </query>
+    <query>
+        <number>1370</number>
+        <text>computer
+networks
+</text>
+    </query>
+    <query>
+        <number>2598</number>
+        <text>computer
+simulation
+</text>
+    </query>
+    <query>
+        <number>1372</number>
+        <text>computer
+systems
+</text>
+    </query>
+    <query>
+        <number>16183</number>
+        <text>conceptual
+blending
+</text>
+    </query>
+    <query>
+        <number>2173</number>
+        <text>council
+history
+council
+</text>
+    </query>
+    <query>
+        <number>8021</number>
+        <text>mediation
+</text>
+    </query>
+    <query>
+        <number>2110</number>
+        <text>conflicts
+</text>
+    </query>
+    <query>
+        <number>1376</number>
+        <text>constitutional
+law
+</text>
+    </query>
+    <query>
+        <number>1377</number>
+        <text>constitutional
+law
+history
+</text>
+    </query>
+    <query>
+        <number>3790</number>
+        <text>constitutional
+issues
+</text>
+    </query>
+    <query>
+        <number>2074</number>
+        <text>consumer
+euro
+</text>
+    </query>
+    <query>
+        <number>1378</number>
+        <text>consumer
+behaviour
+</text>
+    </query>
+    <query>
+        <number>1379</number>
+        <text>consumer
+law
+</text>
+    </query>
+    <query>
+        <number>1380</number>
+        <text>consumption
+</text>
+    </query>
+    <query>
+        <number>7361</number>
+        <text>consumer
+goods
+</text>
+    </query>
+    <query>
+        <number>4963</number>
+        <text>content
+management
+systems
+</text>
+    </query>
+    <query>
+        <number>10821</number>
+        <text>control
+processes
+</text>
+    </query>
+    <query>
+        <number>1381</number>
+        <text>auditors
+</text>
+    </query>
+    <query>
+        <number>2625</number>
+        <text>cooperation
+</text>
+    </query>
+    <query>
+        <number>1382</number>
+        <text>cooperation
+law
+</text>
+    </query>
+    <query>
+        <number>2617</number>
+        <text>cooperative
+information
+systems
+</text>
+    </query>
+    <query>
+        <number>2626</number>
+        <text>cooperative
+game
+theory
+</text>
+    </query>
+    <query>
+        <number>9921</number>
+        <text>coping
+</text>
+    </query>
+    <query>
+        <number>1383</number>
+        <text>corporate
+governance
+</text>
+    </query>
+    <query>
+        <number>13561</number>
+        <text>corporate
+recovery
+</text>
+    </query>
+    <query>
+        <number>13501</number>
+        <text>cosmetic
+surgery
+</text>
+    </query>
+    <query>
+        <number>2294</number>
+        <text>counselling
+</text>
+    </query>
+    <query>
+        <number>16522</number>
+        <text>creativity
+</text>
+    </query>
+    <query>
+        <number>16862</number>
+        <text>creativity
+</text>
+    </query>
+    <query>
+        <number>1385</number>
+        <text>crime
+</text>
+    </query>
+    <query>
+        <number>1384</number>
+        <text>criminology
+</text>
+    </query>
+    <query>
+        <number>1934</number>
+        <text>cross
+cultural
+research
+</text>
+    </query>
+    <query>
+        <number>1386</number>
+        <text>cross
+cultural
+psychology
+</text>
+    </query>
+    <query>
+        <number>8882</number>
+        <text>cultural
+heritage
+</text>
+    </query>
+    <query>
+        <number>15542</number>
+        <text>economics
+art
+culture
+</text>
+    </query>
+    <query>
+        <number>2631</number>
+        <text>cultural
+diversity
+</text>
+    </query>
+    <query>
+        <number>3466</number>
+        <text>culture
+</text>
+    </query>
+    <query>
+        <number>1390</number>
+        <text>culture
+internationalisation
+</text>
+    </query>
+    <query>
+        <number>1389</number>
+        <text>culture
+brabant
+</text>
+    </query>
+    <query>
+        <number>1950</number>
+        <text>cultural
+country
+differences
+</text>
+    </query>
+    <query>
+        <number>8881</number>
+        <text>cultural
+social
+history
+</text>
+    </query>
+    <query>
+        <number>1958</number>
+        <text>culture
+policy
+</text>
+    </query>
+    <query>
+        <number>1561</number>
+        <text>art
+education
+</text>
+    </query>
+    <query>
+        <number>1388</number>
+        <text>philosophy
+culture
+</text>
+    </query>
+    <query>
+        <number>1392</number>
+        <text>cultural
+psychology
+</text>
+    </query>
+    <query>
+        <number>1393</number>
+        <text>cultural
+sociology
+</text>
+    </query>
+    <query>
+        <number>1928</number>
+        <text>cultureral
+differences
+</text>
+    </query>
+    <query>
+        <number>2288</number>
+        <text>dante
+</text>
+    </query>
+    <query>
+        <number>2636</number>
+        <text>data
+mining
+</text>
+    </query>
+    <query>
+        <number>2637</number>
+        <text>data
+warehouse
+</text>
+    </query>
+    <query>
+        <number>1395</number>
+        <text>databases
+</text>
+    </query>
+    <query>
+        <number>1396</number>
+        <text>datamining
+</text>
+    </query>
+    <query>
+        <number>5021</number>
+        <text>methods
+data
+collection
+</text>
+    </query>
+    <query>
+        <number>2640</number>
+        <text>datawarehousing
+</text>
+    </query>
+    <query>
+        <number>1397</number>
+        <text>decentralization
+</text>
+    </query>
+    <query>
+        <number>5637</number>
+        <text>deconstruction
+</text>
+    </query>
+    <query>
+        <number>15622</number>
+        <text>defence
+</text>
+    </query>
+    <query>
+        <number>4325</number>
+        <text>deleuze
+</text>
+    </query>
+    <query>
+        <number>2327</number>
+        <text>dementia
+</text>
+    </query>
+    <query>
+        <number>1398</number>
+        <text>democracy
+</text>
+    </query>
+    <query>
+        <number>1399</number>
+        <text>demography
+</text>
+    </query>
+    <query>
+        <number>7761</number>
+        <text>depression
+</text>
+    </query>
+    <query>
+        <number>1949</number>
+        <text>depression
+pregnancy
+</text>
+    </query>
+    <query>
+        <number>1400</number>
+        <text>third
+world
+</text>
+    </query>
+    <query>
+        <number>2645</number>
+        <text>derivatives
+</text>
+    </query>
+    <query>
+        <number>4327</number>
+        <text>derrida
+</text>
+    </query>
+    <query>
+        <number>2283</number>
+        <text>retail
+trade
+</text>
+    </query>
+    <query>
+        <number>10202</number>
+        <text>retail
+marketing
+</text>
+    </query>
+    <query>
+        <number>17143</number>
+        <text>diabetic
+disease
+</text>
+    </query>
+    <query>
+        <number>1403</number>
+        <text>dialect
+society
+</text>
+    </query>
+    <query>
+        <number>6541</number>
+        <text>dialectology
+</text>
+    </query>
+    <query>
+        <number>7881</number>
+        <text>dialogue
+muslims
+christians
+</text>
+    </query>
+    <query>
+        <number>16823</number>
+        <text>didache
+james
+s
+letter
+</text>
+    </query>
+    <query>
+        <number>4742</number>
+        <text>didache
+matthew
+s
+gospel
+</text>
+    </query>
+    <query>
+        <number>4741</number>
+        <text>didache
+early
+judaism
+</text>
+    </query>
+    <query>
+        <number>16822</number>
+        <text>didache
+matthew
+s
+gospel
+james
+s
+letter
+</text>
+    </query>
+    <query>
+        <number>2651</number>
+        <text>didactics
+economics
+</text>
+    </query>
+    <query>
+        <number>2652</number>
+        <text>services
+marketing
+</text>
+    </query>
+    <query>
+        <number>6202</number>
+        <text>service
+industry
+</text>
+    </query>
+    <query>
+        <number>5625</number>
+        <text>poststructuralism
+</text>
+    </query>
+    <query>
+        <number>4309</number>
+        <text>digital
+library
+</text>
+    </query>
+    <query>
+        <number>1404</number>
+        <text>digital
+culture
+</text>
+    </query>
+    <query>
+        <number>1405</number>
+        <text>discrete
+mathematics
+</text>
+    </query>
+    <query>
+        <number>3471</number>
+        <text>distribution
+</text>
+    </query>
+    <query>
+        <number>5461</number>
+        <text>diversity
+organisations
+</text>
+    </query>
+    <query>
+        <number>7961</number>
+        <text>diversity
+management
+</text>
+    </query>
+    <query>
+        <number>2662</number>
+        <text>dividend
+policy
+</text>
+    </query>
+    <query>
+        <number>1407</number>
+        <text>document
+retrieval
+</text>
+    </query>
+    <query>
+        <number>6182</number>
+        <text>documentary
+information
+</text>
+    </query>
+    <query>
+        <number>11385</number>
+        <text>dogma
+</text>
+    </query>
+    <query>
+        <number>7241</number>
+        <text>dogmatic
+theology
+</text>
+    </query>
+    <query>
+        <number>1408</number>
+        <text>dogmatic
+theology
+</text>
+    </query>
+    <query>
+        <number>12701</number>
+        <text>drinking
+water
+sector
+</text>
+    </query>
+    <query>
+        <number>2318</number>
+        <text>fallacies
+unfair
+methods
+discussion
+</text>
+    </query>
+    <query>
+        <number>5126</number>
+        <text>drugs
+addiction
+</text>
+    </query>
+    <query>
+        <number>1409</number>
+        <text>german
+</text>
+    </query>
+    <query>
+        <number>1411</number>
+        <text>sustainable
+tourism
+</text>
+    </query>
+    <query>
+        <number>11761</number>
+        <text>sustainability
+attitude
+</text>
+    </query>
+    <query>
+        <number>3365</number>
+        <text>consumer
+durable
+goods
+</text>
+    </query>
+    <query>
+        <number>2663</number>
+        <text>renewable
+energy
+</text>
+    </query>
+    <query>
+        <number>3382</number>
+        <text>sustainable
+development
+</text>
+    </query>
+    <query>
+        <number>2667</number>
+        <text>dynamic
+game
+theory
+</text>
+    </query>
+    <query>
+        <number>1412</number>
+        <text>dyslexia
+</text>
+    </query>
+    <query>
+        <number>2669</number>
+        <text>e
+business
+</text>
+    </query>
+    <query>
+        <number>2670</number>
+        <text>e
+commerce
+</text>
+    </query>
+    <query>
+        <number>10561</number>
+        <text>e
+government
+</text>
+    </query>
+    <query>
+        <number>12061</number>
+        <text>e
+justice
+</text>
+    </query>
+    <query>
+        <number>8641</number>
+        <text>e
+learning
+</text>
+    </query>
+    <query>
+        <number>6381</number>
+        <text>ecb
+</text>
+    </query>
+    <query>
+        <number>1413</number>
+        <text>econometrics
+</text>
+    </query>
+    <query>
+        <number>1414</number>
+        <text>economics
+</text>
+    </query>
+    <query>
+        <number>2574</number>
+        <text>chinese
+economy
+</text>
+    </query>
+    <query>
+        <number>8361</number>
+        <text>baltic
+economies
+</text>
+    </query>
+    <query>
+        <number>12881</number>
+        <text>economics
+regulation
+</text>
+    </query>
+    <query>
+        <number>5101</number>
+        <text>economics
+innovation
+</text>
+    </query>
+    <query>
+        <number>8522</number>
+        <text>latvia
+economy
+</text>
+    </query>
+    <query>
+        <number>1282</number>
+        <text>economics
+</text>
+    </query>
+    <query>
+        <number>3464</number>
+        <text>history
+economic
+thought
+</text>
+    </query>
+    <query>
+        <number>1419</number>
+        <text>business
+criminal
+law
+</text>
+    </query>
+    <query>
+        <number>7701</number>
+        <text>economic
+anthropology
+</text>
+    </query>
+    <query>
+        <number>1415</number>
+        <text>economic
+relations
+</text>
+    </query>
+    <query>
+        <number>2013</number>
+        <text>economic
+moral
+values
+</text>
+    </query>
+    <query>
+        <number>2687</number>
+        <text>economic
+fluctuations
+</text>
+    </query>
+    <query>
+        <number>1416</number>
+        <text>economic
+geography
+</text>
+    </query>
+    <query>
+        <number>2689</number>
+        <text>economic
+growth
+</text>
+    </query>
+    <query>
+        <number>16443</number>
+        <text>economic
+development
+</text>
+    </query>
+    <query>
+        <number>1418</number>
+        <text>psychology
+economic
+behaviour
+</text>
+    </query>
+    <query>
+        <number>6201</number>
+        <text>economic
+sectors
+</text>
+    </query>
+    <query>
+        <number>6221</number>
+        <text>economic
+situation
+</text>
+    </query>
+    <query>
+        <number>17147</number>
+        <text>atopic
+eczema
+</text>
+    </query>
+    <query>
+        <number>1420</number>
+        <text>edp
+auditing
+electronic
+data
+processing
+auditing
+</text>
+    </query>
+    <query>
+        <number>2056</number>
+        <text>eeg
+</text>
+    </query>
+    <query>
+        <number>1421</number>
+        <text>eating
+disorders
+</text>
+    </query>
+    <query>
+        <number>1422</number>
+        <text>effect
+analysis
+pc
+</text>
+    </query>
+    <query>
+        <number>4032</number>
+        <text>securities
+law
+</text>
+    </query>
+    <query>
+        <number>2311</number>
+        <text>property
+rights
+</text>
+    </query>
+    <query>
+        <number>7721</number>
+        <text>electroencephalogram
+</text>
+    </query>
+    <query>
+        <number>1938</number>
+        <text>electrophysiology
+</text>
+    </query>
+    <query>
+        <number>2100</number>
+        <text>electromyography
+</text>
+    </query>
+    <query>
+        <number>15464</number>
+        <text>electronic
+business
+</text>
+    </query>
+    <query>
+        <number>2701</number>
+        <text>electronic
+commerce
+</text>
+    </query>
+    <query>
+        <number>1423</number>
+        <text>emancipation
+</text>
+    </query>
+    <query>
+        <number>1424</number>
+        <text>emancipation
+policy
+</text>
+    </query>
+    <query>
+        <number>7722</number>
+        <text>emg
+</text>
+    </query>
+    <query>
+        <number>1929</number>
+        <text>emotions
+</text>
+    </query>
+    <query>
+        <number>2067</number>
+        <text>emotions
+health
+</text>
+    </query>
+    <query>
+        <number>2064</number>
+        <text>emotional
+exhaustion
+</text>
+    </query>
+    <query>
+        <number>2705</number>
+        <text>empirical
+finance
+</text>
+    </query>
+    <query>
+        <number>1425</number>
+        <text>empiric
+religion
+</text>
+    </query>
+    <query>
+        <number>1426</number>
+        <text>empirical
+macroeconomics
+</text>
+    </query>
+    <query>
+        <number>1042</number>
+        <text>empirical
+legal
+</text>
+    </query>
+    <query>
+        <number>1427</number>
+        <text>empirical
+sociology
+</text>
+    </query>
+    <query>
+        <number>17144</number>
+        <text>encopresis
+</text>
+    </query>
+    <query>
+        <number>5321</number>
+        <text>jurisprudence
+</text>
+    </query>
+    <query>
+        <number>2712</number>
+        <text>energy
+economics
+</text>
+    </query>
+    <query>
+        <number>2711</number>
+        <text>energy
+sources
+</text>
+    </query>
+    <query>
+        <number>11261</number>
+        <text>energy
+markets
+</text>
+    </query>
+    <query>
+        <number>1429</number>
+        <text>energy
+problems
+</text>
+    </query>
+    <query>
+        <number>1430</number>
+        <text>english
+</text>
+    </query>
+    <query>
+        <number>3666</number>
+        <text>epidemilogy
+</text>
+    </query>
+    <query>
+        <number>10401</number>
+        <text>epilepsy
+</text>
+    </query>
+    <query>
+        <number>9402</number>
+        <text>episodic
+anxiety
+</text>
+    </query>
+    <query>
+        <number>6521</number>
+        <text>epistemology
+</text>
+    </query>
+    <query>
+        <number>1431</number>
+        <text>law
+succession
+</text>
+    </query>
+    <query>
+        <number>5822</number>
+        <text>ergonomics
+</text>
+    </query>
+    <query>
+        <number>2167</number>
+        <text>aesthetics
+</text>
+    </query>
+    <query>
+        <number>1432</number>
+        <text>ethics
+</text>
+    </query>
+    <query>
+        <number>7103</number>
+        <text>ethnic
+groups
+</text>
+    </query>
+    <query>
+        <number>7102</number>
+        <text>ethnic
+minority
+groups
+</text>
+    </query>
+    <query>
+        <number>1435</number>
+        <text>ethnic
+minority
+groups
+culture
+</text>
+    </query>
+    <query>
+        <number>13901</number>
+        <text>ethnographic
+research
+</text>
+    </query>
+    <query>
+        <number>13341</number>
+        <text>ethnolinguistics
+</text>
+    </query>
+    <query>
+        <number>6383</number>
+        <text>euro
+</text>
+    </query>
+    <query>
+        <number>4391</number>
+        <text>europe
+</text>
+    </query>
+    <query>
+        <number>1437</number>
+        <text>european
+business
+law
+</text>
+    </query>
+    <query>
+        <number>11161</number>
+        <text>european
+values
+study
+</text>
+    </query>
+    <query>
+        <number>5968</number>
+        <text>european
+public
+procurement
+law
+</text>
+    </query>
+    <query>
+        <number>1438</number>
+        <text>european
+tax
+law
+</text>
+    </query>
+    <query>
+        <number>10221</number>
+        <text>european
+administrative
+law
+</text>
+    </query>
+    <query>
+        <number>1440</number>
+        <text>european
+environmental
+law
+</text>
+    </query>
+    <query>
+        <number>12063</number>
+        <text>european
+passport
+</text>
+    </query>
+    <query>
+        <number>1061</number>
+        <text>european
+private
+law
+</text>
+    </query>
+    <query>
+        <number>1441</number>
+        <text>european
+law
+</text>
+    </query>
+    <query>
+        <number>1442</number>
+        <text>european
+social
+law
+</text>
+    </query>
+    <query>
+        <number>1443</number>
+        <text>european
+social
+security
+law
+</text>
+    </query>
+    <query>
+        <number>5561</number>
+        <text>european
+convention
+human
+rights
+</text>
+    </query>
+    <query>
+        <number>6384</number>
+        <text>european
+monetary
+union
+</text>
+    </query>
+    <query>
+        <number>6764</number>
+        <text>european
+politics
+</text>
+    </query>
+    <query>
+        <number>12604</number>
+        <text>theory
+european
+law
+</text>
+    </query>
+    <query>
+        <number>8825</number>
+        <text>euthanasia
+</text>
+    </query>
+    <query>
+        <number>1446</number>
+        <text>evaluation
+developing
+countries
+</text>
+    </query>
+    <query>
+        <number>2329</number>
+        <text>gospels
+</text>
+    </query>
+    <query>
+        <number>1447</number>
+        <text>scheduling
+equilibrium
+</text>
+    </query>
+    <query>
+        <number>2727</number>
+        <text>evolution
+</text>
+    </query>
+    <query>
+        <number>11181</number>
+        <text>evs
+</text>
+    </query>
+    <query>
+        <number>1448</number>
+        <text>exegesis
+</text>
+    </query>
+    <query>
+        <number>1449</number>
+        <text>experimental
+economics
+</text>
+    </query>
+    <query>
+        <number>9381</number>
+        <text>stated
+preferences
+</text>
+    </query>
+    <query>
+        <number>1450</number>
+        <text>expert
+systems
+</text>
+    </query>
+    <query>
+        <number>1451</number>
+        <text>external
+organisation
+</text>
+    </query>
+    <query>
+        <number>1452</number>
+        <text>external
+reporting
+</text>
+    </query>
+    <query>
+        <number>2735</number>
+        <text>extreme
+value
+theory
+</text>
+    </query>
+    <query>
+        <number>1453</number>
+        <text>family
+law
+</text>
+    </query>
+    <query>
+        <number>17145</number>
+        <text>fecal
+continence
+</text>
+    </query>
+    <query>
+        <number>9124</number>
+        <text>feedback
+</text>
+    </query>
+    <query>
+        <number>2292</number>
+        <text>celebration
+</text>
+    </query>
+    <query>
+        <number>1456</number>
+        <text>feminism
+</text>
+    </query>
+    <query>
+        <number>1892</number>
+        <text>feminist
+theology
+</text>
+    </query>
+    <query>
+        <number>1457</number>
+        <text>feminist
+theory
+</text>
+    </query>
+    <query>
+        <number>261</number>
+        <text>phenomenology
+</text>
+    </query>
+    <query>
+        <number>7941</number>
+        <text>film
+literature
+</text>
+    </query>
+    <query>
+        <number>1458</number>
+        <text>film
+</text>
+    </query>
+    <query>
+        <number>1459</number>
+        <text>philosophy
+</text>
+    </query>
+    <query>
+        <number>2025</number>
+        <text>philosophic
+christian
+philosophy
+life
+</text>
+    </query>
+    <query>
+        <number>2113</number>
+        <text>philosophy
+cognitive
+psychology
+</text>
+    </query>
+    <query>
+        <number>6481</number>
+        <text>philosophy
+culture
+</text>
+    </query>
+    <query>
+        <number>1460</number>
+        <text>philosophy
+economy
+</text>
+    </query>
+    <query>
+        <number>4150</number>
+        <text>philosophy
+social
+sciences
+humanities
+</text>
+    </query>
+    <query>
+        <number>1462</number>
+        <text>philosophy
+mind
+</text>
+    </query>
+    <query>
+        <number>1463</number>
+        <text>philosophy
+sociology
+</text>
+    </query>
+    <query>
+        <number>2019</number>
+        <text>philosophy
+state
+</text>
+    </query>
+    <query>
+        <number>2009</number>
+        <text>philosophy
+causality
+</text>
+    </query>
+    <query>
+        <number>2010</number>
+        <text>philosophic
+materialism
+</text>
+    </query>
+    <query>
+        <number>5602</number>
+        <text>philosophical
+psychology
+</text>
+    </query>
+    <query>
+        <number>16502</number>
+        <text>financial
+reporting
+</text>
+    </query>
+    <query>
+        <number>2744</number>
+        <text>financial
+intermediation
+</text>
+    </query>
+    <query>
+        <number>2747</number>
+        <text>financial
+management
+</text>
+    </query>
+    <query>
+        <number>601</number>
+        <text>financial
+supervision
+</text>
+    </query>
+    <query>
+        <number>2753</number>
+        <text>financial
+analysis
+</text>
+    </query>
+    <query>
+        <number>2755</number>
+        <text>financial
+crisis
+</text>
+    </query>
+    <query>
+        <number>2756</number>
+        <text>financial
+econometrics
+</text>
+    </query>
+    <query>
+        <number>2758</number>
+        <text>financial
+economics
+</text>
+    </query>
+    <query>
+        <number>5548</number>
+        <text>financial
+economics
+models
+</text>
+    </query>
+    <query>
+        <number>2750</number>
+        <text>financial
+institutions
+</text>
+    </query>
+    <query>
+        <number>1467</number>
+        <text>financial
+markets
+</text>
+    </query>
+    <query>
+        <number>2071</number>
+        <text>financial
+planning
+consumers
+</text>
+    </query>
+    <query>
+        <number>2565</number>
+        <text>capital
+structure
+</text>
+    </query>
+    <query>
+        <number>2762</number>
+        <text>financial
+mathematics
+</text>
+    </query>
+    <query>
+        <number>1469</number>
+        <text>finance
+</text>
+    </query>
+    <query>
+        <number>1470</number>
+        <text>finance
+</text>
+    </query>
+    <query>
+        <number>1471</number>
+        <text>corporate
+finance
+international
+finance
+</text>
+    </query>
+    <query>
+        <number>2764</number>
+        <text>fiscal
+policy
+</text>
+    </query>
+    <query>
+        <number>1472</number>
+        <text>fiscal
+criminal
+law
+</text>
+    </query>
+    <query>
+        <number>1474</number>
+        <text>fiscal
+economics
+</text>
+    </query>
+    <query>
+        <number>1477</number>
+        <text>fiscal
+methodology
+</text>
+    </query>
+    <query>
+        <number>2200</number>
+        <text>flexible
+contracts
+</text>
+    </query>
+    <query>
+        <number>6321</number>
+        <text>flexibility
+</text>
+    </query>
+    <query>
+        <number>9661</number>
+        <text>flexicurity
+</text>
+    </query>
+    <query>
+        <number>1479</number>
+        <text>phobias
+</text>
+    </query>
+    <query>
+        <number>12981</number>
+        <text>folksonomy
+</text>
+    </query>
+    <query>
+        <number>1480</number>
+        <text>phonology
+</text>
+    </query>
+    <query>
+        <number>7702</number>
+        <text>forensic
+anthropology
+</text>
+    </query>
+    <query>
+        <number>1481</number>
+        <text>forensic
+psychiatrics
+</text>
+    </query>
+    <query>
+        <number>581</number>
+        <text>forensic
+psychology
+</text>
+    </query>
+    <query>
+        <number>4326</number>
+        <text>foucault
+</text>
+    </query>
+    <query>
+        <number>17002</number>
+        <text>st
+francis
+</text>
+    </query>
+    <query>
+        <number>1482</number>
+        <text>french
+</text>
+    </query>
+    <query>
+        <number>1483</number>
+        <text>fraud
+</text>
+    </query>
+    <query>
+        <number>1484</number>
+        <text>theory
+functions
+</text>
+    </query>
+    <query>
+        <number>1485</number>
+        <text>fundamental
+theology
+</text>
+    </query>
+    <query>
+        <number>2103</number>
+        <text>fundamental
+research
+</text>
+    </query>
+    <query>
+        <number>3000</number>
+        <text>mergers
+acquisitions
+</text>
+    </query>
+    <query>
+        <number>1486</number>
+        <text>mergers
+acquisitions
+protection
+</text>
+    </query>
+    <query>
+        <number>5966</number>
+        <text>futures
+</text>
+    </query>
+    <query>
+        <number>7704</number>
+        <text>physiology
+</text>
+    </query>
+    <query>
+        <number>1487</number>
+        <text>physiological
+psychology
+</text>
+    </query>
+    <query>
+        <number>2143</number>
+        <text>birth
+</text>
+    </query>
+    <query>
+        <number>5823</number>
+        <text>user
+interface
+</text>
+    </query>
+    <query>
+        <number>16745</number>
+        <text>commemorate
+</text>
+    </query>
+    <query>
+        <number>16943</number>
+        <text>commemoration
+</text>
+    </query>
+    <query>
+        <number>16747</number>
+        <text>commemorations
+</text>
+    </query>
+    <query>
+        <number>1488</number>
+        <text>behaviour
+</text>
+    </query>
+    <query>
+        <number>2213</number>
+        <text>behaviour
+influence
+</text>
+    </query>
+    <query>
+        <number>11301</number>
+        <text>behavioral
+economics
+</text>
+    </query>
+    <query>
+        <number>2210</number>
+        <text>behaviour
+management
+</text>
+    </query>
+    <query>
+        <number>7121</number>
+        <text>behaviour
+problems
+</text>
+    </query>
+    <query>
+        <number>2225</number>
+        <text>spiritual
+guidance
+</text>
+    </query>
+    <query>
+        <number>7741</number>
+        <text>mental
+health
+</text>
+    </query>
+    <query>
+        <number>3705</number>
+        <text>infant
+mental
+health
+</text>
+    </query>
+    <query>
+        <number>1489</number>
+        <text>mental
+health
+care
+</text>
+    </query>
+    <query>
+        <number>1897</number>
+        <text>spiritual
+counseling
+</text>
+    </query>
+    <query>
+        <number>11663</number>
+        <text>spiritual
+counseling
+pastoral
+work
+soul
+care
+</text>
+    </query>
+    <query>
+        <number>5687</number>
+        <text>data
+banks
+</text>
+    </query>
+    <query>
+        <number>7644</number>
+        <text>handicapped
+persons
+</text>
+    </query>
+    <query>
+        <number>7643</number>
+        <text>care
+disabled
+</text>
+    </query>
+    <query>
+        <number>3</number>
+        <text>secrets
+</text>
+    </query>
+    <query>
+        <number>1490</number>
+        <text>memory
+</text>
+    </query>
+    <query>
+        <number>2099</number>
+        <text>facial
+expressions
+</text>
+    </query>
+    <query>
+        <number>1976</number>
+        <text>money
+</text>
+    </query>
+    <query>
+        <number>1492</number>
+        <text>money
+</text>
+    </query>
+    <query>
+        <number>8141</number>
+        <text>literacy
+</text>
+    </query>
+    <query>
+        <number>2020</number>
+        <text>happiness
+welfare
+</text>
+    </query>
+    <query>
+        <number>1493</number>
+        <text>local
+government
+law
+</text>
+    </query>
+    <query>
+        <number>15103</number>
+        <text>gender
+</text>
+    </query>
+    <query>
+        <number>7282</number>
+        <text>gender
+theology
+</text>
+    </query>
+    <query>
+        <number>2334</number>
+        <text>genesis
+</text>
+    </query>
+    <query>
+        <number>11461</number>
+        <text>genetic
+programming
+</text>
+    </query>
+    <query>
+        <number>2274</number>
+        <text>gerontology
+</text>
+    </query>
+    <query>
+        <number>1495</number>
+        <text>history
+</text>
+    </query>
+    <query>
+        <number>10141</number>
+        <text>history
+near
+east
+</text>
+    </query>
+    <query>
+        <number>10325</number>
+        <text>history
+persian
+period
+</text>
+    </query>
+    <query>
+        <number>9043</number>
+        <text>history
+theater
+brabant
+</text>
+    </query>
+    <query>
+        <number>2005</number>
+        <text>history
+cultural
+anthropology
+</text>
+    </query>
+    <query>
+        <number>9188</number>
+        <text>history
+islam
+</text>
+    </query>
+    <query>
+        <number>1862</number>
+        <text>history
+reformation
+</text>
+    </query>
+    <query>
+        <number>16542</number>
+        <text>history
+christianity
+</text>
+    </query>
+    <query>
+        <number>1569</number>
+        <text>history
+church
+theology
+</text>
+    </query>
+    <query>
+        <number>9981</number>
+        <text>dispute
+resolution
+</text>
+    </query>
+    <query>
+        <number>13722</number>
+        <text>communication
+skills
+</text>
+    </query>
+    <query>
+        <number>16751</number>
+        <text>testimonies
+</text>
+    </query>
+    <query>
+        <number>1497</number>
+        <text>violence
+</text>
+    </query>
+    <query>
+        <number>4227</number>
+        <text>face
+recognition
+</text>
+    </query>
+    <query>
+        <number>1939</number>
+        <text>eyesight
+</text>
+    </query>
+    <query>
+        <number>7222</number>
+        <text>families
+</text>
+    </query>
+    <query>
+        <number>13862</number>
+        <text>family
+history
+</text>
+    </query>
+    <query>
+        <number>12403</number>
+        <text>family
+relationships
+</text>
+    </query>
+    <query>
+        <number>7221</number>
+        <text>sociology
+family
+</text>
+    </query>
+    <query>
+        <number>6741</number>
+        <text>health
+</text>
+    </query>
+    <query>
+        <number>1499</number>
+        <text>health
+psychology
+</text>
+    </query>
+    <query>
+        <number>1500</number>
+        <text>health
+law
+</text>
+    </query>
+    <query>
+        <number>2787</number>
+        <text>health
+care
+</text>
+    </query>
+    <query>
+        <number>10182</number>
+        <text>health
+care
+diversity
+</text>
+    </query>
+    <query>
+        <number>7001</number>
+        <text>health
+care
+economics
+</text>
+    </query>
+    <query>
+        <number>7202</number>
+        <text>health
+care
+management
+</text>
+    </query>
+    <query>
+        <number>7201</number>
+        <text>health
+care
+organisation
+</text>
+    </query>
+    <query>
+        <number>1502</number>
+        <text>health
+care
+strategy
+management
+</text>
+    </query>
+    <query>
+        <number>9024</number>
+        <text>health
+care
+policy
+</text>
+    </query>
+    <query>
+        <number>2792</number>
+        <text>globalisation
+</text>
+    </query>
+    <query>
+        <number>1503</number>
+        <text>globalisation
+economy
+society
+</text>
+    </query>
+    <query>
+        <number>11664</number>
+        <text>images
+god
+</text>
+    </query>
+    <query>
+        <number>2083</number>
+        <text>images
+god
+</text>
+    </query>
+    <query>
+        <number>1504</number>
+        <text>religion
+</text>
+    </query>
+    <query>
+        <number>1506</number>
+        <text>psychology
+religion
+pastoral
+psychology
+</text>
+    </query>
+    <query>
+        <number>1507</number>
+        <text>religion
+pastoral
+sociology
+</text>
+    </query>
+    <query>
+        <number>1505</number>
+        <text>religions
+phenomenology
+</text>
+    </query>
+    <query>
+        <number>4251</number>
+        <text>philosophy
+religion
+</text>
+    </query>
+    <query>
+        <number>1508</number>
+        <text>pedagogy
+religion
+</text>
+    </query>
+    <query>
+        <number>2136</number>
+        <text>problematics
+religion
+multiform
+society
+</text>
+    </query>
+    <query>
+        <number>2081</number>
+        <text>psychology
+religion
+</text>
+    </query>
+    <query>
+        <number>17202</number>
+        <text>sociology
+religion
+catholicism
+pillarisation
+world
+religions
+</text>
+    </query>
+    <query>
+        <number>9181</number>
+        <text>religionstudies
+</text>
+    </query>
+    <query>
+        <number>1894</number>
+        <text>divinity
+contemporary
+themes
+</text>
+    </query>
+    <query>
+        <number>2046</number>
+        <text>gods
+call
+</text>
+    </query>
+    <query>
+        <number>15942</number>
+        <text>good
+governance
+</text>
+    </query>
+    <query>
+        <number>2794</number>
+        <text>gambling
+</text>
+    </query>
+    <query>
+        <number>1978</number>
+        <text>gambling
+addiction
+</text>
+    </query>
+    <query>
+        <number>1509</number>
+        <text>grammar
+models
+</text>
+    </query>
+    <query>
+        <number>2091</number>
+        <text>gregorian
+</text>
+    </query>
+    <query>
+        <number>10761</number>
+        <text>transnational
+posting
+workers
+</text>
+    </query>
+    <query>
+        <number>2222</number>
+        <text>limits
+human
+knowledge
+</text>
+    </query>
+    <query>
+        <number>1510</number>
+        <text>greek
+</text>
+    </query>
+    <query>
+        <number>1511</number>
+        <text>growth
+theories
+</text>
+    </query>
+    <query>
+        <number>7841</number>
+        <text>groups
+</text>
+    </query>
+    <query>
+        <number>2295</number>
+        <text>group
+dynamics
+</text>
+    </query>
+    <query>
+        <number>2800</number>
+        <text>group
+support
+systems
+</text>
+    </query>
+    <query>
+        <number>2146</number>
+        <text>group
+processes
+</text>
+    </query>
+    <query>
+        <number>3789</number>
+        <text>fundamental
+rights
+</text>
+    </query>
+    <query>
+        <number>2315</number>
+        <text>foundations
+mathematics
+</text>
+    </query>
+    <query>
+        <number>2079</number>
+        <text>fundamentals
+psychology
+</text>
+    </query>
+    <query>
+        <number>2000</number>
+        <text>foundations
+developments
+european
+law
+</text>
+    </query>
+    <query>
+        <number>1512</number>
+        <text>conceptual
+foundations
+auditing
+</text>
+    </query>
+    <query>
+        <number>12221</number>
+        <text>foundations
+law
+</text>
+    </query>
+    <query>
+        <number>1513</number>
+        <text>groundwater
+</text>
+    </query>
+    <query>
+        <number>12743</number>
+        <text>large
+cities
+policy
+programme
+</text>
+    </query>
+    <query>
+        <number>6181</number>
+        <text>groupware
+</text>
+    </query>
+    <query>
+        <number>5043</number>
+        <text>hair
+loss
+</text>
+    </query>
+    <query>
+        <number>2187</number>
+        <text>habermas
+</text>
+    </query>
+    <query>
+        <number>12943</number>
+        <text>philosophy
+action
+</text>
+    </query>
+    <query>
+        <number>4921</number>
+        <text>action
+research
+</text>
+    </query>
+    <query>
+        <number>6882</number>
+        <text>trademarks
+</text>
+    </query>
+    <query>
+        <number>3375</number>
+        <text>trade
+policy
+</text>
+    </query>
+    <query>
+        <number>1514</number>
+        <text>commercial
+law
+</text>
+    </query>
+    <query>
+        <number>1515</number>
+        <text>maintenance
+enforcement
+</text>
+    </query>
+    <query>
+        <number>2141</number>
+        <text>hannah
+arendt
+</text>
+    </query>
+    <query>
+        <number>2160</number>
+        <text>heart
+vascular
+diseases
+</text>
+    </query>
+    <query>
+        <number>1516</number>
+        <text>hebrew
+</text>
+    </query>
+    <query>
+        <number>4237</number>
+        <text>hebrew
+bible
+</text>
+    </query>
+    <query>
+        <number>4239</number>
+        <text>hebrew
+semantics
+</text>
+    </query>
+    <query>
+        <number>12281</number>
+        <text>attachment
+</text>
+    </query>
+    <query>
+        <number>1517</number>
+        <text>contemporary
+philosophy
+history
+</text>
+    </query>
+    <query>
+        <number>15002</number>
+        <text>hedge
+funds
+</text>
+    </query>
+    <query>
+        <number>2060</number>
+        <text>hedonistic
+consumption
+</text>
+    </query>
+    <query>
+        <number>2184</number>
+        <text>hegel
+</text>
+    </query>
+    <query>
+        <number>2045</number>
+        <text>heidegger
+</text>
+    </query>
+    <query>
+        <number>13981</number>
+        <text>sacred
+trees
+</text>
+    </query>
+    <query>
+        <number>2256</number>
+        <text>holy
+trees
+india
+</text>
+    </query>
+    <query>
+        <number>1921</number>
+        <text>religious
+celebrations
+festivities
+</text>
+    </query>
+    <query>
+        <number>2069</number>
+        <text>homesickness
+</text>
+    </query>
+    <query>
+        <number>16742</number>
+        <text>remembrance
+</text>
+    </query>
+    <query>
+        <number>16942</number>
+        <text>memory
+</text>
+    </query>
+    <query>
+        <number>16743</number>
+        <text>memory
+</text>
+    </query>
+    <query>
+        <number>4252</number>
+        <text>hermeneutics
+</text>
+    </query>
+    <query>
+        <number>2324</number>
+        <text>brain
+deformations
+children
+</text>
+    </query>
+    <query>
+        <number>2326</number>
+        <text>cerebral
+brain
+haemorrhage
+</text>
+    </query>
+    <query>
+        <number>7703</number>
+        <text>brain
+</text>
+    </query>
+    <query>
+        <number>2052</number>
+        <text>brain
+behaviour
+</text>
+    </query>
+    <query>
+        <number>8944</number>
+        <text>brain
+damage
+</text>
+    </query>
+    <query>
+        <number>15523</number>
+        <text>recovery
+long
+term
+psychiatry
+</text>
+    </query>
+    <query>
+        <number>10842</number>
+        <text>restorative
+justice
+</text>
+    </query>
+    <query>
+        <number>2273</number>
+        <text>notion
+time
+</text>
+    </query>
+    <query>
+        <number>2254</number>
+        <text>hinduism
+</text>
+    </query>
+    <query>
+        <number>4162</number>
+        <text>hintikka
+s
+logic
+</text>
+    </query>
+    <query>
+        <number>13861</number>
+        <text>historical
+demography
+</text>
+    </query>
+    <query>
+        <number>11362</number>
+        <text>hiv
+aids
+</text>
+    </query>
+    <query>
+        <number>5629</number>
+        <text>hobbes
+</text>
+    </query>
+    <query>
+        <number>16752</number>
+        <text>holocaust
+</text>
+    </query>
+    <query>
+        <number>5044</number>
+        <text>scalp
+cooling
+</text>
+    </query>
+    <query>
+        <number>16748</number>
+        <text>hope
+</text>
+    </query>
+    <query>
+        <number>5630</number>
+        <text>horkheimer
+</text>
+    </query>
+    <query>
+        <number>2441</number>
+        <text>html
+</text>
+    </query>
+    <query>
+        <number>2068</number>
+        <text>crying
+</text>
+    </query>
+    <query>
+        <number>15104</number>
+        <text>domestic
+violence
+</text>
+    </query>
+    <query>
+        <number>7421</number>
+        <text>household
+economics
+</text>
+    </query>
+    <query>
+        <number>1519</number>
+        <text>assistance
+</text>
+    </query>
+    <query>
+        <number>9122</number>
+        <text>human
+resource
+development
+</text>
+    </query>
+    <query>
+        <number>2264</number>
+        <text>human
+resource
+management
+</text>
+    </query>
+    <query>
+        <number>1898</number>
+        <text>humanitarian
+intervention
+</text>
+    </query>
+    <query>
+        <number>1520</number>
+        <text>law
+governing
+matrimonial
+property
+rights
+</text>
+    </query>
+    <query>
+        <number>8461</number>
+        <text>hybrid
+organization
+</text>
+    </query>
+    <query>
+        <number>7321</number>
+        <text>hyperactivity
+</text>
+    </query>
+    <query>
+        <number>8945</number>
+        <text>hypertension
+</text>
+    </query>
+    <query>
+        <number>2814</number>
+        <text>ict
+</text>
+    </query>
+    <query>
+        <number>9641</number>
+        <text>ict
+labour
+</text>
+    </query>
+    <query>
+        <number>2815</number>
+        <text>ict
+education
+</text>
+    </query>
+    <query>
+        <number>5805</number>
+        <text>ict
+management
+</text>
+    </query>
+    <query>
+        <number>2171</number>
+        <text>ict
+strategy
+</text>
+    </query>
+    <query>
+        <number>4165</number>
+        <text>identity
+</text>
+    </query>
+    <query>
+        <number>10263</number>
+        <text>identity
+management
+</text>
+    </query>
+    <query>
+        <number>3401</number>
+        <text>imf
+</text>
+    </query>
+    <query>
+        <number>17122</number>
+        <text>immigrants
+</text>
+    </query>
+    <query>
+        <number>1941</number>
+        <text>vitro
+fertilisation
+</text>
+    </query>
+    <query>
+        <number>8002</number>
+        <text>inculturation
+</text>
+    </query>
+    <query>
+        <number>11962</number>
+        <text>individualisation
+</text>
+    </query>
+    <query>
+        <number>3489</number>
+        <text>industrial
+economics
+</text>
+    </query>
+    <query>
+        <number>2151</number>
+        <text>industrial
+networks
+</text>
+    </query>
+    <query>
+        <number>1522</number>
+        <text>industrial
+organization
+</text>
+    </query>
+    <query>
+        <number>1524</number>
+        <text>computer
+science
+</text>
+    </query>
+    <query>
+        <number>5621</number>
+        <text>computer
+science
+ethics
+</text>
+    </query>
+    <query>
+        <number>1525</number>
+        <text>computer
+science
+law
+</text>
+    </query>
+    <query>
+        <number>2172</number>
+        <text>information
+economics
+</text>
+    </query>
+    <query>
+        <number>2340</number>
+        <text>information
+communication
+technology
+education
+</text>
+    </query>
+    <query>
+        <number>4291</number>
+        <text>subject
+indexing
+</text>
+    </query>
+    <query>
+        <number>1526</number>
+        <text>information
+management
+</text>
+    </query>
+    <query>
+        <number>5804</number>
+        <text>information
+planning
+</text>
+    </query>
+    <query>
+        <number>2827</number>
+        <text>information
+processes
+</text>
+    </query>
+    <query>
+        <number>1527</number>
+        <text>information
+law
+</text>
+    </query>
+    <query>
+        <number>2828</number>
+        <text>information
+strategy
+</text>
+    </query>
+    <query>
+        <number>1528</number>
+        <text>information
+systems
+</text>
+    </query>
+    <query>
+        <number>16722</number>
+        <text>information
+systems
+management
+</text>
+    </query>
+    <query>
+        <number>1529</number>
+        <text>information
+technology
+</text>
+    </query>
+    <query>
+        <number>2054</number>
+        <text>data
+processing
+</text>
+    </query>
+    <query>
+        <number>1530</number>
+        <text>information
+science
+</text>
+    </query>
+    <query>
+        <number>8302</number>
+        <text>information
+seeking
+</text>
+    </query>
+    <query>
+        <number>6183</number>
+        <text>information
+retrieval
+</text>
+    </query>
+    <query>
+        <number>3109</number>
+        <text>infrastructure
+</text>
+    </query>
+    <query>
+        <number>16322</number>
+        <text>indigenous
+peoples
+</text>
+    </query>
+    <query>
+        <number>8922</number>
+        <text>income
+inequality
+</text>
+    </query>
+    <query>
+        <number>1532</number>
+        <text>income
+distribution
+</text>
+    </query>
+    <query>
+        <number>1533</number>
+        <text>income
+tax
+</text>
+    </query>
+    <query>
+        <number>16602</number>
+        <text>purchasing
+supply
+management
+</text>
+    </query>
+    <query>
+        <number>16662</number>
+        <text>purchasing
+management
+</text>
+    </query>
+    <query>
+        <number>2153</number>
+        <text>innovation
+</text>
+    </query>
+    <query>
+        <number>2154</number>
+        <text>innovation
+policy
+</text>
+    </query>
+    <query>
+        <number>1534</number>
+        <text>insolvency
+law
+</text>
+    </query>
+    <query>
+        <number>6742</number>
+        <text>effort
+</text>
+    </query>
+    <query>
+        <number>2845</number>
+        <text>institutional
+economics
+</text>
+    </query>
+    <query>
+        <number>10967</number>
+        <text>institutional
+theory
+</text>
+    </query>
+    <query>
+        <number>1535</number>
+        <text>instructive
+texts
+</text>
+    </query>
+    <query>
+        <number>1987</number>
+        <text>integration
+foreigners
+</text>
+    </query>
+    <query>
+        <number>1536</number>
+        <text>intellectual
+property
+law
+</text>
+    </query>
+    <query>
+        <number>1537</number>
+        <text>intelligent
+interfaces
+</text>
+    </query>
+    <query>
+        <number>1952</number>
+        <text>intelligence
+differences
+cultures
+</text>
+    </query>
+    <query>
+        <number>1222</number>
+        <text>inter
+organizational
+networks
+</text>
+    </query>
+    <query>
+        <number>8581</number>
+        <text>inter
+organisational
+relationships
+</text>
+    </query>
+    <query>
+        <number>1538</number>
+        <text>interaction
+communication
+skills
+</text>
+    </query>
+    <query>
+        <number>10942</number>
+        <text>interactive
+governance
+</text>
+    </query>
+    <query>
+        <number>1539</number>
+        <text>intercultural
+management
+</text>
+    </query>
+    <query>
+        <number>2109</number>
+        <text>intercultural
+negotiating
+</text>
+    </query>
+    <query>
+        <number>1540</number>
+        <text>intercultural
+communication
+</text>
+    </query>
+    <query>
+        <number>15602</number>
+        <text>intercultural
+dialogue
+</text>
+    </query>
+    <query>
+        <number>11401</number>
+        <text>intercultural
+ethics
+</text>
+    </query>
+    <query>
+        <number>4941</number>
+        <text>intercultural
+assistance
+</text>
+    </query>
+    <query>
+        <number>1895</number>
+        <text>intercultural
+theologie
+</text>
+    </query>
+    <query>
+        <number>15422</number>
+        <text>intergenerational
+risk
+sharing
+</text>
+    </query>
+    <query>
+        <number>1541</number>
+        <text>intergroup
+relationships
+</text>
+    </query>
+    <query>
+        <number>16462</number>
+        <text>internal
+control
+</text>
+    </query>
+    <query>
+        <number>4348</number>
+        <text>international
+labour
+law
+</text>
+    </query>
+    <query>
+        <number>1542</number>
+        <text>international
+tax
+law
+</text>
+    </query>
+    <query>
+        <number>12781</number>
+        <text>international
+human
+resource
+management
+</text>
+    </query>
+    <query>
+        <number>1543</number>
+        <text>international
+management
+</text>
+    </query>
+    <query>
+        <number>1544</number>
+        <text>international
+competition
+law
+</text>
+    </query>
+    <query>
+        <number>1545</number>
+        <text>international
+environmental
+law
+</text>
+    </query>
+    <query>
+        <number>6403</number>
+        <text>international
+monetary
+fund
+</text>
+    </query>
+    <query>
+        <number>1546</number>
+        <text>private
+international
+law
+</text>
+    </query>
+    <query>
+        <number>8241</number>
+        <text>international
+procedural
+law
+</text>
+    </query>
+    <query>
+        <number>1547</number>
+        <text>international
+public
+law
+</text>
+    </query>
+    <query>
+        <number>1548</number>
+        <text>international
+law
+</text>
+    </query>
+    <query>
+        <number>12021</number>
+        <text>international
+criminal
+court
+</text>
+    </query>
+    <query>
+        <number>15262</number>
+        <text>international
+criminal
+procedural
+law
+</text>
+    </query>
+    <query>
+        <number>1549</number>
+        <text>international
+criminal
+law
+</text>
+    </query>
+    <query>
+        <number>13701</number>
+        <text>international
+financial
+reporting
+standards
+ifrs
+</text>
+    </query>
+    <query>
+        <number>6223</number>
+        <text>international
+economics
+</text>
+    </query>
+    <query>
+        <number>1550</number>
+        <text>international
+economic
+relations
+</text>
+    </query>
+    <query>
+        <number>2869</number>
+        <text>international
+financial
+markets
+</text>
+    </query>
+    <query>
+        <number>1551</number>
+        <text>international
+finance
+</text>
+    </query>
+    <query>
+        <number>2870</number>
+        <text>international
+trade
+</text>
+    </query>
+    <query>
+        <number>16826</number>
+        <text>international
+politics
+</text>
+    </query>
+    <query>
+        <number>1552</number>
+        <text>internet
+</text>
+    </query>
+    <query>
+        <number>12041</number>
+        <text>internet
+governance
+</text>
+    </query>
+    <query>
+        <number>2072</number>
+        <text>internet
+consumers
+</text>
+    </query>
+    <query>
+        <number>5127</number>
+        <text>internet
+addiction
+</text>
+    </query>
+    <query>
+        <number>2149</number>
+        <text>interpersonal
+behaviour
+</text>
+    </query>
+    <query>
+        <number>4882</number>
+        <text>interpolation
+</text>
+    </query>
+    <query>
+        <number>1868</number>
+        <text>inter
+religious
+communication
+</text>
+    </query>
+    <query>
+        <number>16883</number>
+        <text>intertextuality
+</text>
+    </query>
+    <query>
+        <number>4164</number>
+        <text>intuitionistic
+mathematics
+</text>
+    </query>
+    <query>
+        <number>1553</number>
+        <text>investments
+</text>
+    </query>
+    <query>
+        <number>2887</number>
+        <text>investment
+uncertainty
+</text>
+    </query>
+    <query>
+        <number>3368</number>
+        <text>investment
+analysis
+</text>
+    </query>
+    <query>
+        <number>2891</number>
+        <text>islam
+</text>
+    </query>
+    <query>
+        <number>1867</number>
+        <text>islam
+indonesia
+</text>
+    </query>
+    <query>
+        <number>1866</number>
+        <text>islam
+morocco
+</text>
+    </query>
+    <query>
+        <number>1865</number>
+        <text>islam
+netherlands
+</text>
+    </query>
+    <query>
+        <number>13261</number>
+        <text>islam
+spain
+</text>
+    </query>
+    <query>
+        <number>9185</number>
+        <text>islam
+sources
+</text>
+    </query>
+    <query>
+        <number>5641</number>
+        <text>israeli
+law
+</text>
+    </query>
+    <query>
+        <number>16342</number>
+        <text>issuesmanagement
+</text>
+    </query>
+    <query>
+        <number>2894</number>
+        <text>management
+</text>
+    </query>
+    <query>
+        <number>2896</number>
+        <text>strategy
+</text>
+    </query>
+    <query>
+        <number>1554</number>
+        <text>italian
+</text>
+    </query>
+    <query>
+        <number>15743</number>
+        <text>item
+response
+theory
+</text>
+    </query>
+    <query>
+        <number>10241</number>
+        <text>itil
+</text>
+    </query>
+    <query>
+        <number>7542</number>
+        <text>ivf
+</text>
+    </query>
+    <query>
+        <number>5883</number>
+        <text>annual
+reporting
+</text>
+    </query>
+    <query>
+        <number>13641</number>
+        <text>jacobi
+fh
+</text>
+    </query>
+    <query>
+        <number>17063</number>
+        <text>james
+</text>
+    </query>
+    <query>
+        <number>10621</number>
+        <text>japanese
+business
+life
+</text>
+    </query>
+    <query>
+        <number>2899</number>
+        <text>java
+programming
+language
+</text>
+    </query>
+    <query>
+        <number>15562</number>
+        <text>book
+sira
+</text>
+    </query>
+    <query>
+        <number>1555</number>
+        <text>youth
+culture
+</text>
+    </query>
+    <query>
+        <number>1556</number>
+        <text>youth
+assistance
+</text>
+    </query>
+    <query>
+        <number>7781</number>
+        <text>youth
+</text>
+    </query>
+    <query>
+        <number>1557</number>
+        <text>juvenile
+literature
+children
+s
+literature
+</text>
+    </query>
+    <query>
+        <number>1559</number>
+        <text>law
+concerning
+minors
+child
+protection
+youth
+policy
+</text>
+    </query>
+    <query>
+        <number>2331</number>
+        <text>jesus
+</text>
+    </query>
+    <query>
+        <number>4254</number>
+        <text>hiob
+</text>
+    </query>
+    <query>
+        <number>2287</number>
+        <text>judaism
+christianity
+relationship
+</text>
+    </query>
+    <query>
+        <number>14882</number>
+        <text>jews
+modernity
+</text>
+    </query>
+    <query>
+        <number>862</number>
+        <text>judaism
+modern
+</text>
+    </query>
+    <query>
+        <number>1914</number>
+        <text>judaism
+early
+ancient
+</text>
+    </query>
+    <query>
+        <number>16762</number>
+        <text>johann
+baptist
+metz
+</text>
+    </query>
+    <query>
+        <number>1884</number>
+        <text>johannes
+</text>
+    </query>
+    <query>
+        <number>2240</number>
+        <text>saint
+john
+cross
+</text>
+    </query>
+    <query>
+        <number>2900</number>
+        <text>joint
+promotions
+</text>
+    </query>
+    <query>
+        <number>2137</number>
+        <text>youth
+religion
+</text>
+    </query>
+    <query>
+        <number>3523</number>
+        <text>youth
+pastoral
+care
+</text>
+    </query>
+    <query>
+        <number>2335</number>
+        <text>joseph
+</text>
+    </query>
+    <query>
+        <number>3983</number>
+        <text>legal
+skills
+</text>
+    </query>
+    <query>
+        <number>12603</number>
+        <text>legal
+political
+space
+</text>
+    </query>
+    <query>
+        <number>10741</number>
+        <text>cancer
+</text>
+    </query>
+    <query>
+        <number>1562</number>
+        <text>theory
+probability
+</text>
+    </query>
+    <query>
+        <number>1563</number>
+        <text>games
+chance
+</text>
+    </query>
+    <query>
+        <number>2042</number>
+        <text>kant
+immanuel
+1724
+1804
+</text>
+    </query>
+    <query>
+        <number>6981</number>
+        <text>cartels
+</text>
+    </query>
+    <query>
+        <number>2174</number>
+        <text>catholic
+church
+19th
+20th
+century
+</text>
+    </query>
+    <query>
+        <number>2197</number>
+        <text>catholic
+theology
+19th
+century
+</text>
+    </query>
+    <query>
+        <number>5688</number>
+        <text>knowledge
+acquisition
+</text>
+    </query>
+    <query>
+        <number>1847</number>
+        <text>epistemology
+</text>
+    </query>
+    <query>
+        <number>2341</number>
+        <text>knowledge
+management
+</text>
+    </query>
+    <query>
+        <number>1565</number>
+        <text>knowledge
+transfer
+</text>
+    </query>
+    <query>
+        <number>1566</number>
+        <text>knowledge
+representation
+</text>
+    </query>
+    <query>
+        <number>5689</number>
+        <text>knowledge
+based
+systems
+</text>
+    </query>
+    <query>
+        <number>1567</number>
+        <text>knowledge
+technology
+</text>
+    </query>
+    <query>
+        <number>11381</number>
+        <text>church
+</text>
+    </query>
+    <query>
+        <number>3791</number>
+        <text>church
+state
+relations
+</text>
+    </query>
+    <query>
+        <number>1901</number>
+        <text>church
+architecture
+</text>
+    </query>
+    <query>
+        <number>11382</number>
+        <text>ministry
+</text>
+    </query>
+    <query>
+        <number>4236</number>
+        <text>church
+authority
+</text>
+    </query>
+    <query>
+        <number>11384</number>
+        <text>ecclesial
+leadership
+</text>
+    </query>
+    <query>
+        <number>1568</number>
+        <text>church
+law
+</text>
+    </query>
+    <query>
+        <number>2086</number>
+        <text>devotion
+piety
+non
+practising
+</text>
+    </query>
+    <query>
+        <number>1904</number>
+        <text>church
+building
+chapel
+protestants
+</text>
+    </query>
+    <query>
+        <number>2092</number>
+        <text>church
+music
+</text>
+    </query>
+    <query>
+        <number>1915</number>
+        <text>church
+fathers
+ancient
+</text>
+    </query>
+    <query>
+        <number>1899</number>
+        <text>nuclear
+atomic
+weapons
+</text>
+    </query>
+    <query>
+        <number>13881</number>
+        <text>chains
+</text>
+    </query>
+    <query>
+        <number>16565</number>
+        <text>integrated
+care
+</text>
+    </query>
+    <query>
+        <number>281</number>
+        <text>heresy
+heretic
+middelages
+inquisition
+history
+canon
+law
+</text>
+    </query>
+    <query>
+        <number>4238</number>
+        <text>ketuvim
+writings
+</text>
+    </query>
+    <query>
+        <number>1991</number>
+        <text>voting
+mechanisms
+</text>
+    </query>
+    <query>
+        <number>4661</number>
+        <text>electoral
+systems
+</text>
+    </query>
+    <query>
+        <number>1570</number>
+        <text>child
+psychology
+</text>
+    </query>
+    <query>
+        <number>7261</number>
+        <text>children
+</text>
+    </query>
+    <query>
+        <number>2272</number>
+        <text>children
+s
+drawings
+</text>
+    </query>
+    <query>
+        <number>6561</number>
+        <text>clinical
+health
+psychology
+</text>
+    </query>
+    <query>
+        <number>1572</number>
+        <text>clinical
+neuropsychology
+</text>
+    </query>
+    <query>
+        <number>1573</number>
+        <text>clinical
+psychology
+</text>
+    </query>
+    <query>
+        <number>2303</number>
+        <text>short
+term
+memory
+</text>
+    </query>
+    <query>
+        <number>1574</number>
+        <text>credit
+systems
+</text>
+    </query>
+    <query>
+        <number>4886</number>
+        <text>kriging
+</text>
+    </query>
+    <query>
+        <number>15982</number>
+        <text>kriging
+</text>
+    </query>
+    <query>
+        <number>1896</number>
+        <text>armed
+force
+army
+</text>
+    </query>
+    <query>
+        <number>4149</number>
+        <text>critical
+theory
+</text>
+    </query>
+    <query>
+        <number>4881</number>
+        <text>splines
+</text>
+    </query>
+    <query>
+        <number>13661</number>
+        <text>art
+law
+</text>
+    </query>
+    <query>
+        <number>6501</number>
+        <text>philosophy
+art
+</text>
+    </query>
+    <query>
+        <number>13301</number>
+        <text>history
+arts
+</text>
+    </query>
+    <query>
+        <number>1575</number>
+        <text>artificial
+intelligence
+</text>
+    </query>
+    <query>
+        <number>11481</number>
+        <text>sociology
+arts
+</text>
+    </query>
+    <query>
+        <number>12641</number>
+        <text>quality
+work
+</text>
+    </query>
+    <query>
+        <number>2061</number>
+        <text>quality
+life
+</text>
+    </query>
+    <query>
+        <number>121</number>
+        <text>quality
+life
+</text>
+    </query>
+    <query>
+        <number>9461</number>
+        <text>quality
+judiciary
+</text>
+    </query>
+    <query>
+        <number>11701</number>
+        <text>quality
+care
+</text>
+    </query>
+    <query>
+        <number>8501</number>
+        <text>assessment
+research
+quality
+</text>
+    </query>
+    <query>
+        <number>1577</number>
+        <text>agriculture
+</text>
+    </query>
+    <query>
+        <number>1578</number>
+        <text>latin
+</text>
+    </query>
+    <query>
+        <number>1579</number>
+        <text>lifestyle
+</text>
+    </query>
+    <query>
+        <number>7842</number>
+        <text>age
+groups
+</text>
+    </query>
+    <query>
+        <number>9121</number>
+        <text>learning
+styles
+</text>
+    </query>
+    <query>
+        <number>7283</number>
+        <text>learning
+disorders
+</text>
+    </query>
+    <query>
+        <number>10601</number>
+        <text>reading
+research
+</text>
+    </query>
+    <query>
+        <number>1581</number>
+        <text>reading
+disorders
+</text>
+    </query>
+    <query>
+        <number>1582</number>
+        <text>leadership
+</text>
+    </query>
+    <query>
+        <number>8101</number>
+        <text>organisational
+learning
+</text>
+    </query>
+    <query>
+        <number>2941</number>
+        <text>machine
+learning
+</text>
+    </query>
+    <query>
+        <number>3102</number>
+        <text>learning
+organisations
+</text>
+    </query>
+    <query>
+        <number>8362</number>
+        <text>latvia
+</text>
+    </query>
+    <query>
+        <number>2135</number>
+        <text>religious
+education
+</text>
+    </query>
+    <query>
+        <number>2162</number>
+        <text>quality
+life
+heart
+vascular
+diseases
+</text>
+    </query>
+    <query>
+        <number>12462</number>
+        <text>life
+course
+provision
+</text>
+    </query>
+    <query>
+        <number>942</number>
+        <text>life
+insurance
+</text>
+    </query>
+    <query>
+        <number>5631</number>
+        <text>levinas
+</text>
+    </query>
+    <query>
+        <number>5181</number>
+        <text>liberalisation
+</text>
+    </query>
+    <query>
+        <number>2015</number>
+        <text>liberalism
+political
+philosophy
+</text>
+    </query>
+    <query>
+        <number>2104</number>
+        <text>body
+image
+</text>
+    </query>
+    <query>
+        <number>7646</number>
+        <text>fysically
+handicapped
+persons
+</text>
+    </query>
+    <query>
+        <number>1584</number>
+        <text>corporality
+</text>
+    </query>
+    <query>
+        <number>1885</number>
+        <text>passion
+</text>
+    </query>
+    <query>
+        <number>17182</number>
+        <text>annuities
+</text>
+    </query>
+    <query>
+        <number>5690</number>
+        <text>linux
+</text>
+    </query>
+    <query>
+        <number>2280</number>
+        <text>literary
+historical
+aspects
+</text>
+    </query>
+    <query>
+        <number>16362</number>
+        <text>literary
+competence
+</text>
+    </query>
+    <query>
+        <number>1585</number>
+        <text>literature
+</text>
+    </query>
+    <query>
+        <number>1893</number>
+        <text>literature
+theology
+</text>
+    </query>
+    <query>
+        <number>9045</number>
+        <text>literature
+brabant
+</text>
+    </query>
+    <query>
+        <number>1586</number>
+        <text>study
+literature
+</text>
+    </query>
+    <query>
+        <number>2189</number>
+        <text>liturgy
+contemporary
+</text>
+    </query>
+    <query>
+        <number>2022</number>
+        <text>history
+liturgy
+</text>
+    </query>
+    <query>
+        <number>1587</number>
+        <text>liturgical
+</text>
+    </query>
+    <query>
+        <number>5361</number>
+        <text>liturgical
+latin
+</text>
+    </query>
+    <query>
+        <number>1920</number>
+        <text>liturgic
+celebrations
+</text>
+    </query>
+    <query>
+        <number>2090</number>
+        <text>liturgic
+music
+</text>
+    </query>
+    <query>
+        <number>5632</number>
+        <text>locke
+</text>
+    </query>
+    <query>
+        <number>2314</number>
+        <text>logic
+</text>
+    </query>
+    <query>
+        <number>1588</number>
+        <text>logic
+philosophy
+language
+</text>
+    </query>
+    <query>
+        <number>1589</number>
+        <text>logistics
+</text>
+    </query>
+    <query>
+        <number>1590</number>
+        <text>logistics
+management
+</text>
+    </query>
+    <query>
+        <number>17162</number>
+        <text>local
+democracy
+</text>
+    </query>
+    <query>
+        <number>3465</number>
+        <text>local
+energy
+planning
+</text>
+    </query>
+    <query>
+        <number>1591</number>
+        <text>tax
+wages
+income
+tax
+</text>
+    </query>
+    <query>
+        <number>15202</number>
+        <text>wage
+differentials
+</text>
+    </query>
+    <query>
+        <number>2169</number>
+        <text>lyotard
+</text>
+    </query>
+    <query>
+        <number>1984</number>
+        <text>social
+behaviour
+</text>
+    </query>
+    <query>
+        <number>1201</number>
+        <text>corporate
+social
+responsibility
+</text>
+    </query>
+    <query>
+        <number>5633</number>
+        <text>machiavelli
+</text>
+    </query>
+    <query>
+        <number>1593</number>
+        <text>power
+</text>
+    </query>
+    <query>
+        <number>2148</number>
+        <text>power
+organisations
+</text>
+    </query>
+    <query>
+        <number>1595</number>
+        <text>macroeconomics
+</text>
+    </query>
+    <query>
+        <number>1596</number>
+        <text>management
+</text>
+    </query>
+    <query>
+        <number>1597</number>
+        <text>management
+accounting
+</text>
+    </query>
+    <query>
+        <number>1598</number>
+        <text>management
+ethics
+</text>
+    </query>
+    <query>
+        <number>2968</number>
+        <text>management
+games
+</text>
+    </query>
+    <query>
+        <number>3168</number>
+        <text>small
+business
+management
+</text>
+    </query>
+    <query>
+        <number>7641</number>
+        <text>volunteer
+aid
+</text>
+    </query>
+    <query>
+        <number>1599</number>
+        <text>marketing
+</text>
+    </query>
+    <query>
+        <number>1601</number>
+        <text>marketing
+sociology
+book
+</text>
+    </query>
+    <query>
+        <number>2979</number>
+        <text>marketing
+management
+</text>
+    </query>
+    <query>
+        <number>5549</number>
+        <text>marketing
+models
+</text>
+    </query>
+    <query>
+        <number>9561</number>
+        <text>marketing
+culture
+</text>
+    </query>
+    <query>
+        <number>1602</number>
+        <text>services
+marketing
+</text>
+    </query>
+    <query>
+        <number>2981</number>
+        <text>marketing
+books
+</text>
+    </query>
+    <query>
+        <number>2337</number>
+        <text>marketing
+communication
+</text>
+    </query>
+    <query>
+        <number>9001</number>
+        <text>market
+manipulation
+</text>
+    </query>
+    <query>
+        <number>1603</number>
+        <text>market
+research
+</text>
+    </query>
+    <query>
+        <number>262</number>
+        <text>marx
+</text>
+    </query>
+    <query>
+        <number>161</number>
+        <text>marxism
+</text>
+    </query>
+    <query>
+        <number>2989</number>
+        <text>mass
+customization
+</text>
+    </query>
+    <query>
+        <number>1604</number>
+        <text>mass
+communication
+</text>
+    </query>
+    <query>
+        <number>1605</number>
+        <text>substantive
+criminal
+law
+</text>
+    </query>
+    <query>
+        <number>1606</number>
+        <text>mathematical
+statistics
+</text>
+    </query>
+    <query>
+        <number>17064</number>
+        <text>matthew
+james
+didache
+</text>
+    </query>
+    <query>
+        <number>1916</number>
+        <text>mathew
+</text>
+    </query>
+    <query>
+        <number>8683</number>
+        <text>competition
+policy
+</text>
+    </query>
+    <query>
+        <number>1607</number>
+        <text>competition
+law
+</text>
+    </query>
+    <query>
+        <number>13401</number>
+        <text>codetermination
+</text>
+    </query>
+    <query>
+        <number>1286</number>
+        <text>media
+</text>
+    </query>
+    <query>
+        <number>1608</number>
+        <text>media
+</text>
+    </query>
+    <query>
+        <number>2085</number>
+        <text>media
+ethics
+</text>
+    </query>
+    <query>
+        <number>2073</number>
+        <text>media
+consumers
+</text>
+    </query>
+    <query>
+        <number>10841</number>
+        <text>mediation
+</text>
+    </query>
+    <query>
+        <number>1609</number>
+        <text>medical
+ethics
+</text>
+    </query>
+    <query>
+        <number>9361</number>
+        <text>medical
+psychology
+</text>
+    </query>
+    <query>
+        <number>362</number>
+        <text>meditation
+</text>
+    </query>
+    <query>
+        <number>2994</number>
+        <text>multilingualism
+</text>
+    </query>
+    <query>
+        <number>2241</number>
+        <text>meister
+eckhart
+</text>
+    </query>
+    <query>
+        <number>2003</number>
+        <text>human
+animal
+relationships
+</text>
+    </query>
+    <query>
+        <number>3901</number>
+        <text>man
+machine
+interaction
+</text>
+    </query>
+    <query>
+        <number>2002</number>
+        <text>human
+evolution
+</text>
+    </query>
+    <query>
+        <number>12202</number>
+        <text>human
+genetics
+</text>
+    </query>
+    <query>
+        <number>14822</number>
+        <text>human
+security
+</text>
+    </query>
+    <query>
+        <number>1970</number>
+        <text>human
+relationships
+</text>
+    </query>
+    <query>
+        <number>1610</number>
+        <text>human
+rights
+</text>
+    </query>
+    <query>
+        <number>16182</number>
+        <text>mental
+space
+theory
+</text>
+    </query>
+    <query>
+        <number>2102</number>
+        <text>mental
+effort
+</text>
+    </query>
+    <query>
+        <number>10381</number>
+        <text>merleau
+ponty
+maurice
+1908
+1961
+</text>
+    </query>
+    <query>
+        <number>3521</number>
+        <text>metaphors
+</text>
+    </query>
+    <query>
+        <number>1611</number>
+        <text>metaphysics
+</text>
+    </query>
+    <query>
+        <number>2008</number>
+        <text>metaphysics
+reason
+action
+</text>
+    </query>
+    <query>
+        <number>4885</number>
+        <text>meta
+models
+</text>
+    </query>
+    <query>
+        <number>1954</number>
+        <text>cross
+cultural
+research
+methodology
+</text>
+    </query>
+    <query>
+        <number>1658</number>
+        <text>methodology
+statistics
+</text>
+    </query>
+    <query>
+        <number>1612</number>
+        <text>methods
+techniques
+legal
+</text>
+    </query>
+    <query>
+        <number>15842</number>
+        <text>qualitative
+research
+methods
+</text>
+    </query>
+    <query>
+        <number>2300</number>
+        <text>methods
+test
+construction
+</text>
+    </query>
+    <query>
+        <number>1613</number>
+        <text>methodology
+</text>
+    </query>
+    <query>
+        <number>101</number>
+        <text>methodology
+civil
+law
+</text>
+    </query>
+    <query>
+        <number>3008</number>
+        <text>micro
+econometrics
+</text>
+    </query>
+    <query>
+        <number>1614</number>
+        <text>microeconomics
+</text>
+    </query>
+    <query>
+        <number>5741</number>
+        <text>microcomputer
+</text>
+    </query>
+    <query>
+        <number>5691</number>
+        <text>microsoft
+windows
+</text>
+    </query>
+    <query>
+        <number>1615</number>
+        <text>medieval
+philosophy
+history
+</text>
+    </query>
+    <query>
+        <number>3601</number>
+        <text>history
+middle
+ages
+</text>
+    </query>
+    <query>
+        <number>1922</number>
+        <text>medieval
+calendar
+</text>
+    </query>
+    <query>
+        <number>7301</number>
+        <text>middle
+ages
+mystic
+</text>
+    </query>
+    <query>
+        <number>13602</number>
+        <text>medieval
+theology
+</text>
+    </query>
+    <query>
+        <number>10322</number>
+        <text>near
+east
+history
+</text>
+    </query>
+    <query>
+        <number>1617</number>
+        <text>small
+medium
+sized
+enterprises
+</text>
+    </query>
+    <query>
+        <number>1618</number>
+        <text>migrants
+</text>
+    </query>
+    <query>
+        <number>15302</number>
+        <text>migration
+law
+</text>
+    </query>
+    <query>
+        <number>3013</number>
+        <text>environmental
+economics
+</text>
+    </query>
+    <query>
+        <number>1619</number>
+        <text>environmental
+policy
+</text>
+    </query>
+    <query>
+        <number>1621</number>
+        <text>environmental
+impact
+study
+</text>
+    </query>
+    <query>
+        <number>5581</number>
+        <text>environmental
+philosophy
+environmental
+ethics
+</text>
+    </query>
+    <query>
+        <number>1624</number>
+        <text>environmental
+information
+systems
+</text>
+    </query>
+    <query>
+        <number>1625</number>
+        <text>environmental
+management
+</text>
+    </query>
+    <query>
+        <number>1626</number>
+        <text>environmental
+law
+</text>
+    </query>
+    <query>
+        <number>1627</number>
+        <text>environmental
+criminal
+law
+</text>
+    </query>
+    <query>
+        <number>11621</number>
+        <text>doctrines
+war
+</text>
+    </query>
+    <query>
+        <number>11321</number>
+        <text>military
+sociology
+</text>
+    </query>
+    <query>
+        <number>1629</number>
+        <text>minorities
+</text>
+    </query>
+    <query>
+        <number>981</number>
+        <text>mindfulness
+</text>
+    </query>
+    <query>
+        <number>8903</number>
+        <text>minimum
+wages
+</text>
+    </query>
+    <query>
+        <number>11881</number>
+        <text>mobile
+payments
+</text>
+    </query>
+    <query>
+        <number>5821</number>
+        <text>modeling
+</text>
+    </query>
+    <query>
+        <number>6441</number>
+        <text>models
+</text>
+    </query>
+    <query>
+        <number>1863</number>
+        <text>modern
+devotion
+</text>
+    </query>
+    <query>
+        <number>2041</number>
+        <text>modern
+philosophy
+history
+</text>
+    </query>
+    <query>
+        <number>2048</number>
+        <text>modern
+testing
+theories
+</text>
+    </query>
+    <query>
+        <number>11961</number>
+        <text>modernisation
+</text>
+    </query>
+    <query>
+        <number>1632</number>
+        <text>mother
+tongue
+education
+</text>
+    </query>
+    <query>
+        <number>3388</number>
+        <text>monetary
+policy
+</text>
+    </query>
+    <query>
+        <number>1633</number>
+        <text>monetary
+economics
+</text>
+    </query>
+    <query>
+        <number>16753</number>
+        <text>commemorial
+</text>
+    </query>
+    <query>
+        <number>2017</number>
+        <text>moral
+standards
+</text>
+    </query>
+    <query>
+        <number>1634</number>
+        <text>moral
+theology
+</text>
+    </query>
+    <query>
+        <number>12941</number>
+        <text>moral
+responsibility
+</text>
+    </query>
+    <query>
+        <number>2134</number>
+        <text>moral
+education
+</text>
+    </query>
+    <query>
+        <number>10441</number>
+        <text>morphology
+</text>
+    </query>
+    <query>
+        <number>7882</number>
+        <text>muslims
+christians
+dialogue
+</text>
+    </query>
+    <query>
+        <number>3794</number>
+        <text>motivation
+</text>
+    </query>
+    <query>
+        <number>9201</number>
+        <text>multi
+level
+analysis
+</text>
+    </query>
+    <query>
+        <number>3039</number>
+        <text>multiculturalism
+</text>
+    </query>
+    <query>
+        <number>1951</number>
+        <text>multicultural
+society
+</text>
+    </query>
+    <query>
+        <number>1956</number>
+        <text>multicultural
+city
+</text>
+    </query>
+    <query>
+        <number>4307</number>
+        <text>multidatabase
+systems
+</text>
+    </query>
+    <query>
+        <number>1635</number>
+        <text>multimedia
+</text>
+    </query>
+    <query>
+        <number>2239</number>
+        <text>mystic
+</text>
+    </query>
+    <query>
+        <number>12122</number>
+        <text>nancy
+jean
+luc
+1940
+</text>
+    </query>
+    <query>
+        <number>10901</number>
+        <text>nanotechnology
+</text>
+    </query>
+    <query>
+        <number>1887</number>
+        <text>narcissism
+shame
+</text>
+    </query>
+    <query>
+        <number>2142</number>
+        <text>natality
+birth
+rate
+</text>
+    </query>
+    <query>
+        <number>4167</number>
+        <text>nationalism
+</text>
+    </query>
+    <query>
+        <number>10521</number>
+        <text>nationality
+</text>
+    </query>
+    <query>
+        <number>421</number>
+        <text>nature
+protection
+law
+</text>
+    </query>
+    <query>
+        <number>1637</number>
+        <text>philosophy
+science
+physical
+sciences
+</text>
+    </query>
+    <query>
+        <number>8121</number>
+        <text>physics
+</text>
+    </query>
+    <query>
+        <number>1638</number>
+        <text>dutch
+</text>
+    </query>
+    <query>
+        <number>1639</number>
+        <text>dutch
+second
+language
+</text>
+    </query>
+    <query>
+        <number>1640</number>
+        <text>dutch
+foreigners
+</text>
+    </query>
+    <query>
+        <number>2243</number>
+        <text>neglect
+syndrome
+</text>
+    </query>
+    <query>
+        <number>5061</number>
+        <text>privilege
+self
+incrimination
+</text>
+    </query>
+    <query>
+        <number>1221</number>
+        <text>networks
+</text>
+    </query>
+    <query>
+        <number>1641</number>
+        <text>networks
+</text>
+    </query>
+    <query>
+        <number>8684</number>
+        <text>network
+industries
+</text>
+    </query>
+    <query>
+        <number>3061</number>
+        <text>neural
+networks
+</text>
+    </query>
+    <query>
+        <number>8943</number>
+        <text>neurophysiology
+</text>
+    </query>
+    <query>
+        <number>1979</number>
+        <text>neuropsychology
+</text>
+    </query>
+    <query>
+        <number>2208</number>
+        <text>non
+traditional
+families
+</text>
+    </query>
+    <query>
+        <number>5623</number>
+        <text>comparative
+philosophy
+</text>
+    </query>
+    <query>
+        <number>2130</number>
+        <text>nietzsche
+</text>
+    </query>
+    <query>
+        <number>3062</number>
+        <text>new
+economy
+</text>
+    </query>
+    <query>
+        <number>12062</number>
+        <text>new
+technologies
+</text>
+    </query>
+    <query>
+        <number>7401</number>
+        <text>new
+testament
+</text>
+    </query>
+    <query>
+        <number>16622</number>
+        <text>cure
+pay
+</text>
+    </query>
+    <query>
+        <number>7501</number>
+        <text>nonresponse
+</text>
+    </query>
+    <query>
+        <number>2680</number>
+        <text>non
+profit
+sector
+</text>
+    </query>
+    <query>
+        <number>16682</number>
+        <text>nonverbal
+communication
+</text>
+    </query>
+    <query>
+        <number>1982</number>
+        <text>non
+verbal
+learning
+disorders
+</text>
+    </query>
+    <query>
+        <number>3065</number>
+        <text>nonprofit
+organisations
+</text>
+    </query>
+    <query>
+        <number>11641</number>
+        <text>norms
+</text>
+    </query>
+    <query>
+        <number>5766</number>
+        <text>numerical
+analysis
+</text>
+    </query>
+    <query>
+        <number>13081</number>
+        <text>numismatics
+</text>
+    </query>
+    <query>
+        <number>3142</number>
+        <text>public
+utility
+</text>
+    </query>
+    <query>
+        <number>4308</number>
+        <text>object
+oriented
+design
+</text>
+    </query>
+    <query>
+        <number>5692</number>
+        <text>object
+oriented
+analysis
+</text>
+    </query>
+    <query>
+        <number>3071</number>
+        <text>bonds
+</text>
+    </query>
+    <query>
+        <number>17146</number>
+        <text>constipation
+</text>
+    </query>
+    <query>
+        <number>6881</number>
+        <text>patents
+</text>
+    </query>
+    <query>
+        <number>1861</number>
+        <text>ecumenicism
+ecumenicalism
+</text>
+    </query>
+    <query>
+        <number>1923</number>
+        <text>ecumenism
+ecumenical
+theology
+</text>
+    </query>
+    <query>
+        <number>1645</number>
+        <text>moot
+court
+</text>
+    </query>
+    <query>
+        <number>1647</number>
+        <text>sales
+tax
+</text>
+    </query>
+    <query>
+        <number>7682</number>
+        <text>unpaid
+work
+</text>
+    </query>
+    <query>
+        <number>11343</number>
+        <text>negotiating
+</text>
+    </query>
+    <query>
+        <number>5546</number>
+        <text>maintenance
+models
+</text>
+    </query>
+    <query>
+        <number>1650</number>
+        <text>maintenance
+management
+</text>
+    </query>
+    <query>
+        <number>5421</number>
+        <text>entrepreneurship
+</text>
+    </query>
+    <query>
+        <number>1651</number>
+        <text>enterprises
+</text>
+    </query>
+    <query>
+        <number>1652</number>
+        <text>corporate
+finance
+</text>
+    </query>
+    <query>
+        <number>5550</number>
+        <text>corporate
+models
+</text>
+    </query>
+    <query>
+        <number>13402</number>
+        <text>works
+council
+</text>
+    </query>
+    <query>
+        <number>1653</number>
+        <text>company
+law
+</text>
+    </query>
+    <query>
+        <number>1654</number>
+        <text>company
+strategy
+</text>
+    </query>
+    <query>
+        <number>1655</number>
+        <text>company
+assessment
+</text>
+    </query>
+    <query>
+        <number>2220</number>
+        <text>distinction
+science
+pseudoscience
+</text>
+    </query>
+    <query>
+        <number>7561</number>
+        <text>education
+</text>
+    </query>
+    <query>
+        <number>1656</number>
+        <text>educational
+training
+psychology
+</text>
+    </query>
+    <query>
+        <number>13181</number>
+        <text>innovation
+education
+</text>
+    </query>
+    <query>
+        <number>1657</number>
+        <text>educational
+law
+</text>
+    </query>
+    <query>
+        <number>13281</number>
+        <text>sociology
+education
+</text>
+    </query>
+    <query>
+        <number>7562</number>
+        <text>research
+</text>
+    </query>
+    <query>
+        <number>9202</number>
+        <text>research
+design
+</text>
+    </query>
+    <query>
+        <number>2823</number>
+        <text>inequality
+</text>
+    </query>
+    <query>
+        <number>9421</number>
+        <text>online
+dispute
+resolution
+</text>
+    </query>
+    <query>
+        <number>2285</number>
+        <text>online
+shopping
+</text>
+    </query>
+    <query>
+        <number>1927</number>
+        <text>rush
+decreasing
+</text>
+    </query>
+    <query>
+        <number>6281</number>
+        <text>ontology
+</text>
+    </query>
+    <query>
+        <number>2114</number>
+        <text>emergence
+consciousness
+evolution
+</text>
+    </query>
+    <query>
+        <number>2616</number>
+        <text>cooperative
+information
+system
+development
+</text>
+    </query>
+    <query>
+        <number>3088</number>
+        <text>development
+economics
+</text>
+    </query>
+    <query>
+        <number>1659</number>
+        <text>developing
+countries
+</text>
+    </query>
+    <query>
+        <number>1660</number>
+        <text>developing
+countries
+economy
+</text>
+    </query>
+    <query>
+        <number>1661</number>
+        <text>developmental
+psychology
+</text>
+    </query>
+    <query>
+        <number>1662</number>
+        <text>developmental
+disorders
+</text>
+    </query>
+    <query>
+        <number>2281</number>
+        <text>father
+</text>
+    </query>
+    <query>
+        <number>13241</number>
+        <text>eye
+tracking
+</text>
+    </query>
+    <query>
+        <number>6843</number>
+        <text>eastern
+europe
+</text>
+    </query>
+    <query>
+        <number>3385</number>
+        <text>eastern
+europe
+</text>
+    </query>
+    <query>
+        <number>1665</number>
+        <text>public
+administration
+</text>
+    </query>
+    <query>
+        <number>1666</number>
+        <text>public
+finance
+</text>
+    </query>
+    <query>
+        <number>1667</number>
+        <text>public
+finance
+local
+authorities
+</text>
+    </query>
+    <query>
+        <number>2236</number>
+        <text>revelation
+</text>
+    </query>
+    <query>
+        <number>1668</number>
+        <text>opera
+</text>
+    </query>
+    <query>
+        <number>3095</number>
+        <text>operations
+research
+</text>
+    </query>
+    <query>
+        <number>5941</number>
+        <text>options
+</text>
+    </query>
+    <query>
+        <number>1669</number>
+        <text>option
+pricing
+</text>
+    </query>
+    <query>
+        <number>3099</number>
+        <text>optimisation
+</text>
+    </query>
+    <query>
+        <number>12402</number>
+        <text>parenting
+</text>
+    </query>
+    <query>
+        <number>12404</number>
+        <text>parenting
+empowerment
+interventions
+</text>
+    </query>
+    <query>
+        <number>12362</number>
+        <text>organ
+donation
+</text>
+    </query>
+    <query>
+        <number>12361</number>
+        <text>organ
+transplantation
+</text>
+    </query>
+    <query>
+        <number>1670</number>
+        <text>organisation
+</text>
+    </query>
+    <query>
+        <number>1671</number>
+        <text>organisation
+management
+</text>
+    </query>
+    <query>
+        <number>16564</number>
+        <text>organizational
+commitment
+</text>
+    </query>
+    <query>
+        <number>1960</number>
+        <text>organisational
+culture
+</text>
+    </query>
+    <query>
+        <number>3105</number>
+        <text>organizational
+design
+</text>
+    </query>
+    <query>
+        <number>1672</number>
+        <text>organisational
+development
+</text>
+    </query>
+    <query>
+        <number>1673</number>
+        <text>organisational
+psychology
+</text>
+    </query>
+    <query>
+        <number>7581</number>
+        <text>organisations
+</text>
+    </query>
+    <query>
+        <number>1674</number>
+        <text>organisational
+sociology
+</text>
+    </query>
+    <query>
+        <number>3104</number>
+        <text>organisation
+theory
+</text>
+    </query>
+    <query>
+        <number>2266</number>
+        <text>organisational
+change
+</text>
+    </query>
+    <query>
+        <number>6762</number>
+        <text>organisation
+</text>
+    </query>
+    <query>
+        <number>2093</number>
+        <text>organ
+</text>
+    </query>
+    <query>
+        <number>1676</number>
+        <text>old
+testament
+</text>
+    </query>
+    <query>
+        <number>2275</number>
+        <text>aging
+</text>
+    </query>
+    <query>
+        <number>9341</number>
+        <text>older
+workers
+</text>
+    </query>
+    <query>
+        <number>7061</number>
+        <text>elderly
+people
+</text>
+    </query>
+    <query>
+        <number>1677</number>
+        <text>public
+accountancy
+</text>
+    </query>
+    <query>
+        <number>1678</number>
+        <text>government
+policy
+</text>
+    </query>
+    <query>
+        <number>6261</number>
+        <text>public
+economics
+</text>
+    </query>
+    <query>
+        <number>1679</number>
+        <text>government
+finance
+</text>
+    </query>
+    <query>
+        <number>1681</number>
+        <text>mergers
+</text>
+    </query>
+    <query>
+        <number>12321</number>
+        <text>minor
+mental
+disorders
+</text>
+    </query>
+    <query>
+        <number>16402</number>
+        <text>paneldata
+</text>
+    </query>
+    <query>
+        <number>1682</number>
+        <text>paneldata
+latent
+variables
+</text>
+    </query>
+    <query>
+        <number>5639</number>
+        <text>parliamentary
+law
+</text>
+    </query>
+    <query>
+        <number>1003</number>
+        <text>intimate
+partner
+violence
+</text>
+    </query>
+    <query>
+        <number>2164</number>
+        <text>partnership
+</text>
+    </query>
+    <query>
+        <number>2089</number>
+        <text>priest
+priesthood
+</text>
+    </query>
+    <query>
+        <number>1683</number>
+        <text>pastoral
+psychology
+</text>
+    </query>
+    <query>
+        <number>1684</number>
+        <text>pastoral
+sociology
+</text>
+    </query>
+    <query>
+        <number>1685</number>
+        <text>pastoral
+theology
+</text>
+    </query>
+    <query>
+        <number>1891</number>
+        <text>priesthood
+pastoral
+care
+</text>
+    </query>
+    <query>
+        <number>363</number>
+        <text>pastoral
+counseling
+</text>
+    </query>
+    <query>
+        <number>2180</number>
+        <text>pastoral
+assistance
+</text>
+    </query>
+    <query>
+        <number>1864</number>
+        <text>patrology
+patristics
+</text>
+    </query>
+    <query>
+        <number>16922</number>
+        <text>ecclesiastical
+latin
+new
+testament
+greek
+</text>
+    </query>
+    <query>
+        <number>2024</number>
+        <text>pilgrimage
+</text>
+    </query>
+    <query>
+        <number>2289</number>
+        <text>pilgrimage
+israel
+</text>
+    </query>
+    <query>
+        <number>1687</number>
+        <text>penitentiary
+regulations
+</text>
+    </query>
+    <query>
+        <number>16142</number>
+        <text>pensions
+</text>
+    </query>
+    <query>
+        <number>15702</number>
+        <text>pensions
+</text>
+    </query>
+    <query>
+        <number>15442</number>
+        <text>pensions
+pension
+deal
+pensioenfondsen
+</text>
+    </query>
+    <query>
+        <number>1688</number>
+        <text>pension
+rights
+</text>
+    </query>
+    <query>
+        <number>6061</number>
+        <text>perception
+</text>
+    </query>
+    <query>
+        <number>10262</number>
+        <text>personalisation
+</text>
+    </query>
+    <query>
+        <number>41</number>
+        <text>personalization
+</text>
+    </query>
+    <query>
+        <number>1690</number>
+        <text>psychology
+human
+resources
+</text>
+    </query>
+    <query>
+        <number>8701</number>
+        <text>human
+resource
+development
+</text>
+    </query>
+    <query>
+        <number>1691</number>
+        <text>human
+resources
+sciences
+</text>
+    </query>
+    <query>
+        <number>1692</number>
+        <text>persons
+family
+law
+</text>
+    </query>
+    <query>
+        <number>2133</number>
+        <text>personal
+identity
+</text>
+    </query>
+    <query>
+        <number>364</number>
+        <text>personal
+growth
+</text>
+    </query>
+    <query>
+        <number>2226</number>
+        <text>personality
+</text>
+    </query>
+    <query>
+        <number>2124</number>
+        <text>personality
+health
+</text>
+    </query>
+    <query>
+        <number>1693</number>
+        <text>theory
+personality
+</text>
+    </query>
+    <query>
+        <number>2128</number>
+        <text>personality
+disorders
+</text>
+    </query>
+    <query>
+        <number>10922</number>
+        <text>persuasive
+communication
+</text>
+    </query>
+    <query>
+        <number>5601</number>
+        <text>philosophy
+mind
+</text>
+    </query>
+    <query>
+        <number>15382</number>
+        <text>php
+programming
+language
+</text>
+    </query>
+    <query>
+        <number>5</number>
+        <text>pain
+</text>
+    </query>
+    <query>
+        <number>1908</number>
+        <text>pluralism
+</text>
+    </query>
+    <query>
+        <number>4234</number>
+        <text>pastoral
+care
+</text>
+    </query>
+    <query>
+        <number>10961</number>
+        <text>consensus
+democracy
+</text>
+    </query>
+    <query>
+        <number>1694</number>
+        <text>political
+science
+</text>
+    </query>
+    <query>
+        <number>1695</number>
+        <text>politics
+</text>
+    </query>
+    <query>
+        <number>1696</number>
+        <text>political
+administrative
+crisis
+</text>
+    </query>
+    <query>
+        <number>1697</number>
+        <text>political
+philosophy
+political
+ethics
+</text>
+    </query>
+    <query>
+        <number>1698</number>
+        <text>political
+parties
+</text>
+    </query>
+    <query>
+        <number>15785</number>
+        <text>political
+theology
+</text>
+    </query>
+    <query>
+        <number>1699</number>
+        <text>folk
+culture
+</text>
+    </query>
+    <query>
+        <number>3370</number>
+        <text>portfolio
+theory
+</text>
+    </query>
+    <query>
+        <number>2168</number>
+        <text>postmodernism
+</text>
+    </query>
+    <query>
+        <number>1945</number>
+        <text>post
+natal
+depression
+</text>
+    </query>
+    <query>
+        <number>9621</number>
+        <text>post
+traumatic
+stress
+disorder
+</text>
+    </query>
+    <query>
+        <number>1700</number>
+        <text>pragmatics
+knowledge
+transfer
+</text>
+    </query>
+    <query>
+        <number>1701</number>
+        <text>practical
+theology
+</text>
+    </query>
+    <query>
+        <number>15522</number>
+        <text>indicators
+</text>
+    </query>
+    <query>
+        <number>5693</number>
+        <text>analysis
+</text>
+    </query>
+    <query>
+        <number>15023</number>
+        <text>priesthood
+</text>
+    </query>
+    <query>
+        <number>1702</number>
+        <text>private
+law
+</text>
+    </query>
+    <query>
+        <number>1704</number>
+        <text>privacy
+</text>
+    </query>
+    <query>
+        <number>3126</number>
+        <text>privatization
+</text>
+    </query>
+    <query>
+        <number>12141</number>
+        <text>procedural
+justice
+</text>
+    </query>
+    <query>
+        <number>1705</number>
+        <text>procedural
+law
+</text>
+    </query>
+    <query>
+        <number>2973</number>
+        <text>manufacturing
+automation
+</text>
+    </query>
+    <query>
+        <number>1707</number>
+        <text>production
+management
+</text>
+    </query>
+    <query>
+        <number>5544</number>
+        <text>production
+systems
+</text>
+    </query>
+    <query>
+        <number>3127</number>
+        <text>productivity
+</text>
+    </query>
+    <query>
+        <number>2152</number>
+        <text>product
+development
+</text>
+    </query>
+    <query>
+        <number>7062</number>
+        <text>professionalisation
+</text>
+    </query>
+    <query>
+        <number>42</number>
+        <text>profilingh
+</text>
+    </query>
+    <query>
+        <number>5694</number>
+        <text>computer
+program
+</text>
+    </query>
+    <query>
+        <number>5695</number>
+        <text>programming
+languages
+</text>
+    </query>
+    <query>
+        <number>3130</number>
+        <text>programming
+</text>
+    </query>
+    <query>
+        <number>3881</number>
+        <text>project
+management
+</text>
+    </query>
+    <query>
+        <number>6421</number>
+        <text>promotions
+</text>
+    </query>
+    <query>
+        <number>1709</number>
+        <text>provincial
+government
+law
+</text>
+    </query>
+    <query>
+        <number>1710</number>
+        <text>psychiatrics
+</text>
+    </query>
+    <query>
+        <number>11671</number>
+        <text>psychiatry
+religion
+</text>
+    </query>
+    <query>
+        <number>6721</number>
+        <text>mental
+disorders
+</text>
+    </query>
+    <query>
+        <number>9961</number>
+        <text>psycho
+oncology
+</text>
+    </query>
+    <query>
+        <number>2078</number>
+        <text>psycho
+semiotics
+semiology
+</text>
+    </query>
+    <query>
+        <number>2131</number>
+        <text>psychoanalysis
+</text>
+    </query>
+    <query>
+        <number>2080</number>
+        <text>psychoanalysis
+phenomenology
+</text>
+    </query>
+    <query>
+        <number>3708</number>
+        <text>psychodiagnostics
+</text>
+    </query>
+    <query>
+        <number>2097</number>
+        <text>psychopharmacology
+</text>
+    </query>
+    <query>
+        <number>2101</number>
+        <text>psychophysiology
+</text>
+    </query>
+    <query>
+        <number>1711</number>
+        <text>psycholinguistics
+</text>
+    </query>
+    <query>
+        <number>1712</number>
+        <text>psychology
+</text>
+    </query>
+    <query>
+        <number>1962</number>
+        <text>history
+psychology
+</text>
+    </query>
+    <query>
+        <number>16563</number>
+        <text>psychological
+contract
+</text>
+    </query>
+    <query>
+        <number>2214</number>
+        <text>psychological
+marketing
+</text>
+    </query>
+    <query>
+        <number>2047</number>
+        <text>psychometry
+</text>
+    </query>
+    <query>
+        <number>15742</number>
+        <text>psychometrics
+</text>
+    </query>
+    <query>
+        <number>481</number>
+        <text>psychoneuroimmunology
+pni
+</text>
+    </query>
+    <query>
+        <number>1714</number>
+        <text>psychonomics
+</text>
+    </query>
+    <query>
+        <number>1715</number>
+        <text>psychosomatics
+</text>
+    </query>
+    <query>
+        <number>2070</number>
+        <text>psychosomatic
+symptoms
+</text>
+    </query>
+    <query>
+        <number>1716</number>
+        <text>psychotherapy
+</text>
+    </query>
+    <query>
+        <number>10041</number>
+        <text>psychotrauma
+</text>
+    </query>
+    <query>
+        <number>17222</number>
+        <text>public
+private
+distinction
+</text>
+    </query>
+    <query>
+        <number>11921</number>
+        <text>public
+opinion
+research
+</text>
+    </query>
+    <query>
+        <number>1717</number>
+        <text>public
+sector
+</text>
+    </query>
+    <query>
+        <number>15242</number>
+        <text>public
+accountability
+</text>
+    </query>
+    <query>
+        <number>6062</number>
+        <text>quine
+</text>
+    </query>
+    <query>
+        <number>11241</number>
+        <text>disasters
+</text>
+    </query>
+    <query>
+        <number>5624</number>
+        <text>rationalty
+nonreductionism
+</text>
+    </query>
+    <query>
+        <number>2557</number>
+        <text>bounded
+rationality
+</text>
+    </query>
+    <query>
+        <number>5635</number>
+        <text>rawls
+</text>
+    </query>
+    <query>
+        <number>2257</number>
+        <text>history
+reception
+tantrism
+</text>
+    </query>
+    <query>
+        <number>12042</number>
+        <text>law
+economics
+</text>
+    </query>
+    <query>
+        <number>1719</number>
+        <text>law
+informatization
+computerization
+</text>
+    </query>
+    <query>
+        <number>9463</number>
+        <text>judiciary
+system
+</text>
+    </query>
+    <query>
+        <number>2248</number>
+        <text>legal
+principles
+</text>
+    </query>
+    <query>
+        <number>1721</number>
+        <text>philosophy
+law
+</text>
+    </query>
+    <query>
+        <number>1722</number>
+        <text>history
+law
+</text>
+    </query>
+    <query>
+        <number>1723</number>
+        <text>computer
+science
+law
+</text>
+    </query>
+    <query>
+        <number>1724</number>
+        <text>legal
+persons
+law
+</text>
+    </query>
+    <query>
+        <number>1725</number>
+        <text>sociology
+law
+</text>
+    </query>
+    <query>
+        <number>2186</number>
+        <text>rule
+law
+</text>
+    </query>
+    <query>
+        <number>1726</number>
+        <text>legal
+theory
+</text>
+    </query>
+    <query>
+        <number>1727</number>
+        <text>comparative
+law
+</text>
+    </query>
+    <query>
+        <number>1728</number>
+        <text>judicial
+construction
+</text>
+    </query>
+    <query>
+        <number>2246</number>
+        <text>justice
+</text>
+    </query>
+    <query>
+        <number>2058</number>
+        <text>advertising
+</text>
+    </query>
+    <query>
+        <number>1996</number>
+        <text>advertising
+ethics
+</text>
+    </query>
+    <query>
+        <number>2209</number>
+        <text>psychology
+advertising
+</text>
+    </query>
+    <query>
+        <number>4641</number>
+        <text>recreation
+</text>
+    </query>
+    <query>
+        <number>5626</number>
+        <text>reductionism
+</text>
+    </query>
+    <query>
+        <number>10481</number>
+        <text>reflection
+</text>
+    </query>
+    <query>
+        <number>9881</number>
+        <text>reflexivity
+</text>
+    </query>
+    <query>
+        <number>12801</number>
+        <text>regulatory
+burden
+</text>
+    </query>
+    <query>
+        <number>13421</number>
+        <text>region
+marketing
+</text>
+    </query>
+    <query>
+        <number>5640</number>
+        <text>regional
+governance
+</text>
+    </query>
+    <query>
+        <number>1729</number>
+        <text>regional
+economics
+</text>
+    </query>
+    <query>
+        <number>2150</number>
+        <text>regional
+economic
+development
+</text>
+    </query>
+    <query>
+        <number>3602</number>
+        <text>regional
+history
+</text>
+    </query>
+    <query>
+        <number>12441</number>
+        <text>regional
+development
+</text>
+    </query>
+    <query>
+        <number>12205</number>
+        <text>regulation
+new
+technologies
+</text>
+    </query>
+    <query>
+        <number>13941</number>
+        <text>regulation
+biotechnology
+</text>
+    </query>
+    <query>
+        <number>7341</number>
+        <text>relationship
+judaism
+christianity
+</text>
+    </query>
+    <query>
+        <number>1730</number>
+        <text>relations
+law
+</text>
+    </query>
+    <query>
+        <number>881</number>
+        <text>religion
+</text>
+    </query>
+    <query>
+        <number>15783</number>
+        <text>religion
+politics
+</text>
+    </query>
+    <query>
+        <number>4664</number>
+        <text>religious
+fundamentalism
+</text>
+    </query>
+    <query>
+        <number>2291</number>
+        <text>religious
+leadership
+</text>
+    </query>
+    <query>
+        <number>1869</number>
+        <text>religious
+pluralism
+identity
+</text>
+    </query>
+    <query>
+        <number>1889</number>
+        <text>religious
+communication
+</text>
+    </query>
+    <query>
+        <number>16845</number>
+        <text>religious
+diversity
+muslim
+values
+norms
+west
+</text>
+    </query>
+    <query>
+        <number>2088</number>
+        <text>religious
+market
+</text>
+    </query>
+    <query>
+        <number>7684</number>
+        <text>religious
+associations
+</text>
+    </query>
+    <query>
+        <number>8822</number>
+        <text>catholic
+care
+tradition
+</text>
+    </query>
+    <query>
+        <number>5963</number>
+        <text>interest
+rates
+</text>
+    </query>
+    <query>
+        <number>11601</number>
+        <text>reorganizations
+</text>
+    </query>
+    <query>
+        <number>12601</number>
+        <text>representation
+</text>
+    </query>
+    <query>
+        <number>1732</number>
+        <text>rethorics
+</text>
+    </query>
+    <query>
+        <number>7081</number>
+        <text>reverse
+logistics
+</text>
+    </query>
+    <query>
+        <number>2161</number>
+        <text>convalescence
+</text>
+    </query>
+    <query>
+        <number>10903</number>
+        <text>rfid
+</text>
+    </query>
+    <query>
+        <number>11364</number>
+        <text>risk
+behaviour
+time
+preferences
+</text>
+    </query>
+    <query>
+        <number>3151</number>
+        <text>risk
+models
+</text>
+    </query>
+    <query>
+        <number>12203</number>
+        <text>risk
+regulation
+</text>
+    </query>
+    <query>
+        <number>4701</number>
+        <text>ritual
+</text>
+    </query>
+    <query>
+        <number>2190</number>
+        <text>rituals
+</text>
+    </query>
+    <query>
+        <number>1733</number>
+        <text>roman
+law
+</text>
+    </query>
+    <query>
+        <number>5636</number>
+        <text>rousseau
+</text>
+    </query>
+    <query>
+        <number>2178</number>
+        <text>mourning
+</text>
+    </query>
+    <query>
+        <number>1903</number>
+        <text>space
+liturgy
+</text>
+    </query>
+    <query>
+        <number>621</number>
+        <text>spatial
+information
+geographical
+information
+</text>
+    </query>
+    <query>
+        <number>1734</number>
+        <text>environmental
+town
+country
+planning
+</text>
+    </query>
+    <query>
+        <number>1735</number>
+        <text>russian
+</text>
+    </query>
+    <query>
+        <number>1902</number>
+        <text>sacred
+space
+</text>
+    </query>
+    <query>
+        <number>2307</number>
+        <text>sacramentals
+</text>
+    </query>
+    <query>
+        <number>1736</number>
+        <text>sacramental
+theology
+</text>
+    </query>
+    <query>
+        <number>11221</number>
+        <text>samaritans
+ancient
+qumran
+</text>
+    </query>
+    <query>
+        <number>12301</number>
+        <text>collaborative
+learning
+</text>
+    </query>
+    <query>
+        <number>17102</number>
+        <text>collaboration
+</text>
+    </query>
+    <query>
+        <number>12002</number>
+        <text>1
+2
+samuel
+</text>
+    </query>
+    <query>
+        <number>2065</number>
+        <text>sarcoidosis
+</text>
+    </query>
+    <query>
+        <number>1755</number>
+        <text>satanism
+</text>
+    </query>
+    <query>
+        <number>5401</number>
+        <text>scandinavia
+</text>
+    </query>
+    <query>
+        <number>2293</number>
+        <text>shame
+</text>
+    </query>
+    <query>
+        <number>541</number>
+        <text>compensation
+</text>
+    </query>
+    <query>
+        <number>3156</number>
+        <text>estimation
+theory
+</text>
+    </query>
+    <query>
+        <number>4255</number>
+        <text>creation
+stories
+</text>
+    </query>
+    <query>
+        <number>2198</number>
+        <text>schleiermacher
+</text>
+    </query>
+    <query>
+        <number>15784</number>
+        <text>schmitt
+carl
+</text>
+    </query>
+    <query>
+        <number>1739</number>
+        <text>writing
+methods
+processes
+techniques
+</text>
+    </query>
+    <query>
+        <number>1740</number>
+        <text>writing
+organizations
+</text>
+    </query>
+    <query>
+        <number>4721</number>
+        <text>guilt
+</text>
+    </query>
+    <query>
+        <number>1888</number>
+        <text>guilt
+sin
+</text>
+    </query>
+    <query>
+        <number>6921</number>
+        <text>gender
+</text>
+    </query>
+    <query>
+        <number>2234</number>
+        <text>gender
+autonomy
+</text>
+    </query>
+    <query>
+        <number>2232</number>
+        <text>gender
+work
+stress
+</text>
+    </query>
+    <query>
+        <number>2259</number>
+        <text>gender
+organisations
+</text>
+    </query>
+    <query>
+        <number>2233</number>
+        <text>gender
+identity
+disorders
+</text>
+    </query>
+    <query>
+        <number>2205</number>
+        <text>gender
+differences
+</text>
+    </query>
+    <query>
+        <number>11782</number>
+        <text>sexual
+violence
+</text>
+    </query>
+    <query>
+        <number>1742</number>
+        <text>sexual
+aggression
+</text>
+    </query>
+    <query>
+        <number>2087</number>
+        <text>sects
+new
+religious
+movements
+</text>
+    </query>
+    <query>
+        <number>1743</number>
+        <text>semantics
+</text>
+    </query>
+    <query>
+        <number>1744</number>
+        <text>semiotics
+</text>
+    </query>
+    <query>
+        <number>15462</number>
+        <text>service
+oriented
+computing
+</text>
+    </query>
+    <query>
+        <number>961</number>
+        <text>sex
+equality
+</text>
+    </query>
+    <query>
+        <number>1745</number>
+        <text>simulation
+</text>
+    </query>
+    <query>
+        <number>13621</number>
+        <text>victims
+</text>
+    </query>
+    <query>
+        <number>4166</number>
+        <text>slavoj
+zizek
+</text>
+    </query>
+    <query>
+        <number>4233</number>
+        <text>social
+capital
+</text>
+    </query>
+    <query>
+        <number>12482</number>
+        <text>social
+network
+analysis
+</text>
+    </query>
+    <query>
+        <number>321</number>
+        <text>social
+law
+</text>
+    </query>
+    <query>
+        <number>1746</number>
+        <text>social
+law
+</text>
+    </query>
+    <query>
+        <number>1747</number>
+        <text>social
+law
+tax
+specialists
+</text>
+    </query>
+    <query>
+        <number>12861</number>
+        <text>social
+classification
+</text>
+    </query>
+    <query>
+        <number>11841</number>
+        <text>social
+cognition
+</text>
+    </query>
+    <query>
+        <number>5301</number>
+        <text>social
+cohesion
+</text>
+    </query>
+    <query>
+        <number>11642</number>
+        <text>social
+dilemmas
+</text>
+    </query>
+    <query>
+        <number>1751</number>
+        <text>social
+administrative
+reform
+</text>
+    </query>
+    <query>
+        <number>1752</number>
+        <text>social
+political
+ethics
+theology
+</text>
+    </query>
+    <query>
+        <number>1754</number>
+        <text>social
+philosophy
+social
+ethics
+</text>
+    </query>
+    <query>
+        <number>1756</number>
+        <text>social
+choice
+theory
+</text>
+    </query>
+    <query>
+        <number>9521</number>
+        <text>social
+mobility
+</text>
+    </query>
+    <query>
+        <number>13363</number>
+        <text>social
+networks
+</text>
+    </query>
+    <query>
+        <number>7461</number>
+        <text>social
+inequality
+</text>
+    </query>
+    <query>
+        <number>12924</number>
+        <text>social
+development
+children
+</text>
+    </query>
+    <query>
+        <number>1758</number>
+        <text>social
+politics
+</text>
+    </query>
+    <query>
+        <number>13541</number>
+        <text>social
+processes
+</text>
+    </query>
+    <query>
+        <number>1759</number>
+        <text>social
+psychology
+</text>
+    </query>
+    <query>
+        <number>2018</number>
+        <text>social
+justice
+</text>
+    </query>
+    <query>
+        <number>13044</number>
+        <text>social
+support
+</text>
+    </query>
+    <query>
+        <number>7601</number>
+        <text>social
+stratification
+</text>
+    </query>
+    <query>
+        <number>9281</number>
+        <text>social
+exclusion
+</text>
+    </query>
+    <query>
+        <number>11963</number>
+        <text>social
+change
+</text>
+    </query>
+    <query>
+        <number>11542</number>
+        <text>social
+comparison
+</text>
+    </query>
+    <query>
+        <number>7661</number>
+        <text>social
+sciences
+</text>
+    </query>
+    <query>
+        <number>1760</number>
+        <text>social
+security
+</text>
+    </query>
+    <query>
+        <number>5403</number>
+        <text>social
+security
+principles
+</text>
+    </query>
+    <query>
+        <number>1762</number>
+        <text>social
+security
+law
+</text>
+    </query>
+    <query>
+        <number>3970</number>
+        <text>social
+security
+law
+international
+</text>
+    </query>
+    <query>
+        <number>1765</number>
+        <text>sociolinguistics
+</text>
+    </query>
+    <query>
+        <number>1766</number>
+        <text>sociology
+</text>
+    </query>
+    <query>
+        <number>842</number>
+        <text>sociology
+</text>
+    </query>
+    <query>
+        <number>1768</number>
+        <text>sociological
+theories
+</text>
+    </query>
+    <query>
+        <number>12602</number>
+        <text>sovereignty
+</text>
+    </query>
+    <query>
+        <number>8622</number>
+        <text>soft
+law
+</text>
+    </query>
+    <query>
+        <number>5698</number>
+        <text>software
+</text>
+    </query>
+    <query>
+        <number>5696</number>
+        <text>software
+development
+</text>
+    </query>
+    <query>
+        <number>9441</number>
+        <text>solidarity
+</text>
+    </query>
+    <query>
+        <number>1769</number>
+        <text>spanish
+</text>
+    </query>
+    <query>
+        <number>1770</number>
+        <text>spelling
+</text>
+    </query>
+    <query>
+        <number>4163</number>
+        <text>game
+theoretical
+semantics
+</text>
+    </query>
+    <query>
+        <number>1771</number>
+        <text>game
+theory
+</text>
+    </query>
+    <query>
+        <number>12401</number>
+        <text>spina
+bifida
+</text>
+    </query>
+    <query>
+        <number>7262</number>
+        <text>spirituality
+</text>
+    </query>
+    <query>
+        <number>1772</number>
+        <text>sports
+</text>
+    </query>
+    <query>
+        <number>8161</number>
+        <text>sports
+law
+</text>
+    </query>
+    <query>
+        <number>2302</number>
+        <text>speech
+recognition
+</text>
+    </query>
+    <query>
+        <number>3185</number>
+        <text>speech
+technology
+</text>
+    </query>
+    <query>
+        <number>3186</number>
+        <text>speech
+technology
+computers
+</text>
+    </query>
+    <query>
+        <number>3187</number>
+        <text>spreadsheets
+</text>
+    </query>
+    <query>
+        <number>3188</number>
+        <text>talking
+computer
+</text>
+    </query>
+    <query>
+        <number>1773</number>
+        <text>municipal
+law
+</text>
+    </query>
+    <query>
+        <number>10941</number>
+        <text>urban
+governance
+</text>
+    </query>
+    <query>
+        <number>12761</number>
+        <text>urban
+history
+</text>
+    </query>
+    <query>
+        <number>15142</number>
+        <text>stakeholder
+participation
+</text>
+    </query>
+    <query>
+        <number>3939</number>
+        <text>stalking
+</text>
+    </query>
+    <query>
+        <number>11342</number>
+        <text>standardisation
+</text>
+    </query>
+    <query>
+        <number>1774</number>
+        <text>statistics
+</text>
+    </query>
+    <query>
+        <number>1775</number>
+        <text>statistical
+methods
+</text>
+    </query>
+    <query>
+        <number>4666</number>
+        <text>urban
+development
+</text>
+    </query>
+    <query>
+        <number>1777</number>
+        <text>survey
+sampling
+</text>
+    </query>
+    <query>
+        <number>1990</number>
+        <text>voting
+procedures
+</text>
+    </query>
+    <query>
+        <number>8022</number>
+        <text>stereotypes
+</text>
+    </query>
+    <query>
+        <number>2182</number>
+        <text>terminal
+care
+</text>
+    </query>
+    <query>
+        <number>17045</number>
+        <text>stylistics
+</text>
+    </query>
+    <query>
+        <number>7281</number>
+        <text>disorders
+</text>
+    </query>
+    <query>
+        <number>1778</number>
+        <text>law
+criminal
+procedure
+criminal
+adjective
+law
+</text>
+    </query>
+    <query>
+        <number>1780</number>
+        <text>criminal
+law
+</text>
+    </query>
+    <query>
+        <number>1782</number>
+        <text>criminal
+prosecution
+</text>
+    </query>
+    <query>
+        <number>1992</number>
+        <text>strategic
+voting
+behaviour
+patterns
+</text>
+    </query>
+    <query>
+        <number>3204</number>
+        <text>strategic
+management
+</text>
+    </query>
+    <query>
+        <number>1783</number>
+        <text>strategic
+decision
+making
+</text>
+    </query>
+    <query>
+        <number>1757</number>
+        <text>stratification
+</text>
+    </query>
+    <query>
+        <number>2206</number>
+        <text>stress
+</text>
+    </query>
+    <query>
+        <number>2066</number>
+        <text>stress
+disease
+</text>
+    </query>
+    <query>
+        <number>1944</number>
+        <text>stress
+hormones
+</text>
+    </query>
+    <query>
+        <number>2125</number>
+        <text>stress
+management
+</text>
+    </query>
+    <query>
+        <number>10161</number>
+        <text>dutch
+grants
+</text>
+    </query>
+    <query>
+        <number>2215</number>
+        <text>study
+skills
+</text>
+    </query>
+    <query>
+        <number>2179</number>
+        <text>suicide
+</text>
+    </query>
+    <query>
+        <number>241</number>
+        <text>supervision
+</text>
+    </query>
+    <query>
+        <number>16663</number>
+        <text>supply
+chain
+management
+</text>
+    </query>
+    <query>
+        <number>11781</number>
+        <text>supranational
+criminal
+law
+</text>
+    </query>
+    <query>
+        <number>1784</number>
+        <text>syntax
+</text>
+    </query>
+    <query>
+        <number>15662</number>
+        <text>syriac
+speaking
+churches
+</text>
+    </query>
+    <query>
+        <number>5742</number>
+        <text>systems
+management
+</text>
+    </query>
+    <query>
+        <number>10641</number>
+        <text>system
+dynamics
+</text>
+    </query>
+    <query>
+        <number>1785</number>
+        <text>systems
+development
+</text>
+    </query>
+    <query>
+        <number>1786</number>
+        <text>systems
+theory
+</text>
+    </query>
+    <query>
+        <number>1787</number>
+        <text>systematic
+methodical
+theology
+</text>
+    </query>
+    <query>
+        <number>3214</number>
+        <text>systeemontwerp
+</text>
+    </query>
+    <query>
+        <number>5261</number>
+        <text>community
+service
+order
+</text>
+    </query>
+    <query>
+        <number>1788</number>
+        <text>language
+</text>
+    </query>
+    <query>
+        <number>3216</number>
+        <text>language
+computers
+</text>
+    </query>
+    <query>
+        <number>1790</number>
+        <text>language
+artificial
+intelligence
+</text>
+    </query>
+    <query>
+        <number>1791</number>
+        <text>language
+minorities
+</text>
+    </query>
+    <query>
+        <number>1789</number>
+        <text>language
+analysis
+</text>
+    </query>
+    <query>
+        <number>12341</number>
+        <text>language
+evolution
+</text>
+    </query>
+    <query>
+        <number>1793</number>
+        <text>philosophy
+language
+</text>
+    </query>
+    <query>
+        <number>1794</number>
+        <text>language
+behaviour
+</text>
+    </query>
+    <query>
+        <number>3224</number>
+        <text>linguistic
+information
+systems
+</text>
+    </query>
+    <query>
+        <number>13321</number>
+        <text>origin
+language
+</text>
+    </query>
+    <query>
+        <number>1795</number>
+        <text>language
+psychology
+</text>
+    </query>
+    <query>
+        <number>1796</number>
+        <text>language
+technology
+</text>
+    </query>
+    <query>
+        <number>3231</number>
+        <text>language
+technology
+computers
+</text>
+    </query>
+    <query>
+        <number>17043</number>
+        <text>language
+proficiency
+</text>
+    </query>
+    <query>
+        <number>1797</number>
+        <text>language
+acquisition
+</text>
+    </query>
+    <query>
+        <number>1798</number>
+        <text>language
+management
+</text>
+    </query>
+    <query>
+        <number>1799</number>
+        <text>linguistics
+</text>
+    </query>
+    <query>
+        <number>1800</number>
+        <text>languages
+practice
+</text>
+    </query>
+    <query>
+        <number>11741</number>
+        <text>technology
+ethics
+</text>
+    </query>
+    <query>
+        <number>1910</number>
+        <text>technological
+environmental
+philosophy
+</text>
+    </query>
+    <query>
+        <number>1801</number>
+        <text>technical
+company
+organization
+</text>
+    </query>
+    <query>
+        <number>10461</number>
+        <text>technology
+strategy
+</text>
+    </query>
+    <query>
+        <number>1802</number>
+        <text>text
+readings
+discourses
+</text>
+    </query>
+    <query>
+        <number>10921</number>
+        <text>document
+design
+</text>
+    </query>
+    <query>
+        <number>1882</number>
+        <text>text
+semantics
+</text>
+    </query>
+    <query>
+        <number>1803</number>
+        <text>discourse
+</text>
+    </query>
+    <query>
+        <number>3259</number>
+        <text>telecommnications
+</text>
+    </query>
+    <query>
+        <number>10701</number>
+        <text>temperament
+</text>
+    </query>
+    <query>
+        <number>11581</number>
+        <text>terrorism
+</text>
+    </query>
+    <query>
+        <number>17044</number>
+        <text>questionnaire
+design
+</text>
+    </query>
+    <query>
+        <number>2049</number>
+        <text>testing
+</text>
+    </query>
+    <query>
+        <number>7621</number>
+        <text>testing
+theory
+</text>
+    </query>
+    <query>
+        <number>1804</number>
+        <text>theology
+</text>
+    </query>
+    <query>
+        <number>16749</number>
+        <text>theology
+</text>
+    </query>
+    <query>
+        <number>2320</number>
+        <text>theology
+16th
+century
+</text>
+    </query>
+    <query>
+        <number>2194</number>
+        <text>theological
+debates
+muslims
+christians
+</text>
+    </query>
+    <query>
+        <number>5700</number>
+        <text>theoretical
+computer
+science
+</text>
+    </query>
+    <query>
+        <number>1805</number>
+        <text>theory
+history
+literature
+</text>
+    </query>
+    <query>
+        <number>1907</number>
+        <text>thomas
+aquinas
+</text>
+    </query>
+    <query>
+        <number>8981</number>
+        <text>temporary
+work
+</text>
+    </query>
+    <query>
+        <number>3264</number>
+        <text>time
+series
+</text>
+    </query>
+    <query>
+        <number>1925</number>
+        <text>time
+budget
+research
+survey
+</text>
+    </query>
+    <query>
+        <number>16782</number>
+        <text>access
+justice
+</text>
+    </query>
+    <query>
+        <number>5121</number>
+        <text>applied
+econometrics
+</text>
+    </query>
+    <query>
+        <number>1806</number>
+        <text>applied
+ethics
+</text>
+    </query>
+    <query>
+        <number>5803</number>
+        <text>applied
+linguistics
+</text>
+    </query>
+    <query>
+        <number>944</number>
+        <text>life
+time
+benefits
+</text>
+    </query>
+    <query>
+        <number>5701</number>
+        <text>computer
+applications
+</text>
+    </query>
+    <query>
+        <number>1807</number>
+        <text>tourism
+</text>
+    </query>
+    <query>
+        <number>16803</number>
+        <text>tourism
+protected
+areas
+</text>
+    </query>
+    <query>
+        <number>1808</number>
+        <text>decision
+theories
+</text>
+    </query>
+    <query>
+        <number>15782</number>
+        <text>toleration
+</text>
+    </query>
+    <query>
+        <number>2112</number>
+        <text>interpreting
+</text>
+    </query>
+    <query>
+        <number>2336</number>
+        <text>tolkien
+</text>
+    </query>
+    <query>
+        <number>2319</number>
+        <text>tradition
+innovation
+modernization
+</text>
+    </query>
+    <query>
+        <number>2207</number>
+        <text>traditional
+families
+</text>
+    </query>
+    <query>
+        <number>2296</number>
+        <text>transactional
+analysis
+</text>
+    </query>
+    <query>
+        <number>3273</number>
+        <text>transition
+economics
+</text>
+    </query>
+    <query>
+        <number>1809</number>
+        <text>transport
+</text>
+    </query>
+    <query>
+        <number>7141</number>
+        <text>triad
+model
+</text>
+    </query>
+    <query>
+        <number>2006</number>
+        <text>tribal
+art
+</text>
+    </query>
+    <query>
+        <number>1811</number>
+        <text>turkish
+</text>
+    </query>
+    <query>
+        <number>1985</number>
+        <text>turkish
+migrants
+</text>
+    </query>
+    <query>
+        <number>14843</number>
+        <text>two
+ways
+</text>
+    </query>
+    <query>
+        <number>1812</number>
+        <text>bilingualism
+multilingualism
+</text>
+    </query>
+    <query>
+        <number>3281</number>
+        <text>bilingualism
+</text>
+    </query>
+    <query>
+        <number>13042</number>
+        <text>earners
+</text>
+    </query>
+    <query>
+        <number>3107</number>
+        <text>outsourcing
+</text>
+    </query>
+    <query>
+        <number>12581</number>
+        <text>offshoring
+</text>
+    </query>
+    <query>
+        <number>1813</number>
+        <text>publishing
+companies
+</text>
+    </query>
+    <query>
+        <number>1814</number>
+        <text>benefits
+</text>
+    </query>
+    <query>
+        <number>13581</number>
+        <text>ostracism
+</text>
+    </query>
+    <query>
+        <number>5702</number>
+        <text>unix
+</text>
+    </query>
+    <query>
+        <number>16962</number>
+        <text>education
+skills
+</text>
+    </query>
+    <query>
+        <number>1815</number>
+        <text>trade
+unions
+</text>
+    </query>
+    <query>
+        <number>1924</number>
+        <text>vatican
+</text>
+    </query>
+    <query>
+        <number>11386</number>
+        <text>vatican
+ii
+</text>
+    </query>
+    <query>
+        <number>2521</number>
+        <text>auctions
+</text>
+    </query>
+    <query>
+        <number>3287</number>
+        <text>auction
+theory
+</text>
+    </query>
+    <query>
+        <number>1816</number>
+        <text>corporate
+income
+tax
+</text>
+    </query>
+    <query>
+        <number>4039</number>
+        <text>law
+obligations
+</text>
+    </query>
+    <query>
+        <number>10302</number>
+        <text>law
+associations
+</text>
+    </query>
+    <query>
+        <number>1870</number>
+        <text>comparative
+religious
+</text>
+    </query>
+    <query>
+        <number>2339</number>
+        <text>comparison
+traditional
+new
+media
+</text>
+    </query>
+    <query>
+        <number>2004</number>
+        <text>comparison
+cultures
+</text>
+    </query>
+    <query>
+        <number>2252</number>
+        <text>comparison
+economy
+systems
+</text>
+    </query>
+    <query>
+        <number>3298</number>
+        <text>ageing
+</text>
+    </query>
+    <query>
+        <number>2309</number>
+        <text>relationship
+individual
+community
+state
+</text>
+    </query>
+    <query>
+        <number>2308</number>
+        <text>relationship
+politics
+economy
+ethics
+</text>
+    </query>
+    <query>
+        <number>2221</number>
+        <text>relation
+science
+philosophy
+</text>
+    </query>
+    <query>
+        <number>11365</number>
+        <text>rejuvenation
+</text>
+    </query>
+    <query>
+        <number>1822</number>
+        <text>transport
+</text>
+    </query>
+    <query>
+        <number>1823</number>
+        <text>traffic
+law
+</text>
+    </query>
+    <query>
+        <number>2317</number>
+        <text>election
+mechanisms
+</text>
+    </query>
+    <query>
+        <number>15122</number>
+        <text>rape
+</text>
+    </query>
+    <query>
+        <number>2177</number>
+        <text>recovering
+personal
+loss
+</text>
+    </query>
+    <query>
+        <number>2127</number>
+        <text>fatigue
+</text>
+    </query>
+    <query>
+        <number>1824</number>
+        <text>tax
+wealth
+wealth
+tax
+</text>
+    </query>
+    <query>
+        <number>5901</number>
+        <text>capital
+structure
+</text>
+    </query>
+    <query>
+        <number>16843</number>
+        <text>nursing
+guidelines
+</text>
+    </query>
+    <query>
+        <number>16884</number>
+        <text>resurrection
+</text>
+    </query>
+    <query>
+        <number>5881</number>
+        <text>reporting
+</text>
+    </query>
+    <query>
+        <number>5123</number>
+        <text>addiction
+</text>
+    </query>
+    <query>
+        <number>9021</number>
+        <text>addiction
+care
+</text>
+    </query>
+    <query>
+        <number>7645</number>
+        <text>mentally
+handicapped
+persons
+</text>
+    </query>
+    <query>
+        <number>3623</number>
+        <text>trust
+</text>
+    </query>
+    <query>
+        <number>5547</number>
+        <text>replacement
+models
+</text>
+    </query>
+    <query>
+        <number>1825</number>
+        <text>traffic
+regulations
+</text>
+    </query>
+    <query>
+        <number>1890</number>
+        <text>alienation
+</text>
+    </query>
+    <query>
+        <number>3469</number>
+        <text>insurance
+</text>
+    </query>
+    <query>
+        <number>2489</number>
+        <text>actuarial
+mathematics
+</text>
+    </query>
+    <query>
+        <number>1827</number>
+        <text>welfare
+states
+</text>
+    </query>
+    <query>
+        <number>10581</number>
+        <text>veterans
+experiences
+guilt
+shame
+</text>
+    </query>
+    <query>
+        <number>5564</number>
+        <text>victimology
+</text>
+    </query>
+    <query>
+        <number>14021</number>
+        <text>victorian
+literature
+</text>
+    </query>
+    <query>
+        <number>4</number>
+        <text>virtual
+reality
+</text>
+    </query>
+    <query>
+        <number>2301</number>
+        <text>visual
+perception
+</text>
+    </query>
+    <query>
+        <number>1</number>
+        <text>refugee
+law
+</text>
+    </query>
+    <query>
+        <number>1281</number>
+        <text>food
+</text>
+    </query>
+    <query>
+        <number>15362</number>
+        <text>soccer
+economics
+</text>
+    </query>
+    <query>
+        <number>1828</number>
+        <text>international
+law
+</text>
+    </query>
+    <query>
+        <number>3951</number>
+        <text>history
+international
+law
+</text>
+    </query>
+    <query>
+        <number>1829</number>
+        <text>popular
+culture
+</text>
+    </query>
+    <query>
+        <number>921</number>
+        <text>public
+health
+</text>
+    </query>
+    <query>
+        <number>2305</number>
+        <text>popular
+religious
+rituals
+</text>
+    </query>
+    <query>
+        <number>2322</number>
+        <text>popular
+religion
+</text>
+    </query>
+    <query>
+        <number>2021</number>
+        <text>people
+s
+piety
+devotion
+</text>
+    </query>
+    <query>
+        <number>5141</number>
+        <text>adult
+education
+</text>
+    </query>
+    <query>
+        <number>17042</number>
+        <text>public
+information
+</text>
+    </query>
+    <query>
+        <number>1830</number>
+        <text>inventory
+management
+</text>
+    </query>
+    <query>
+        <number>5542</number>
+        <text>inventory
+systems
+</text>
+    </query>
+    <query>
+        <number>3315</number>
+        <text>forecasting
+</text>
+    </query>
+    <query>
+        <number>2050</number>
+        <text>questionnaires
+</text>
+    </query>
+    <query>
+        <number>1832</number>
+        <text>foreign
+languages
+acquisition
+</text>
+    </query>
+    <query>
+        <number>12942</number>
+        <text>free
+agency
+</text>
+    </query>
+    <query>
+        <number>2310</number>
+        <text>free
+market
+economy
+</text>
+    </query>
+    <query>
+        <number>1833</number>
+        <text>leisure
+</text>
+    </query>
+    <query>
+        <number>1834</number>
+        <text>leisure
+management
+</text>
+    </query>
+    <query>
+        <number>1836</number>
+        <text>leisure
+</text>
+    </query>
+    <query>
+        <number>7681</number>
+        <text>voluntary
+work
+</text>
+    </query>
+    <query>
+        <number>1918</number>
+        <text>early
+middle
+ages
+liturgy
+</text>
+    </query>
+    <query>
+        <number>1917</number>
+        <text>early
+middle
+ages
+</text>
+    </query>
+    <query>
+        <number>12121</number>
+        <text>early
+romantics
+</text>
+    </query>
+    <query>
+        <number>10001</number>
+        <text>prematurity
+</text>
+    </query>
+    <query>
+        <number>2231</number>
+        <text>women
+health
+</text>
+    </query>
+    <query>
+        <number>1837</number>
+        <text>women
+s
+movement
+</text>
+    </query>
+    <query>
+        <number>15102</number>
+        <text>women
+s
+rights
+</text>
+    </query>
+    <query>
+        <number>1838</number>
+        <text>women
+s
+</text>
+    </query>
+    <query>
+        <number>1840</number>
+        <text>women
+s
+theology
+</text>
+    </query>
+    <query>
+        <number>10801</number>
+        <text>values
+</text>
+    </query>
+    <query>
+        <number>13201</number>
+        <text>value
+pluralism
+</text>
+    </query>
+    <query>
+        <number>3541</number>
+        <text>concept
+truth
+</text>
+    </query>
+    <query>
+        <number>1965</number>
+        <text>perception
+</text>
+    </query>
+    <query>
+        <number>1841</number>
+        <text>theory
+probability
+</text>
+    </query>
+    <query>
+        <number>1842</number>
+        <text>queueing
+theory
+</text>
+    </query>
+    <query>
+        <number>1843</number>
+        <text>invalidity
+benefits
+shortfall
+wao
+shortfall
+</text>
+    </query>
+    <query>
+        <number>5967</number>
+        <text>warrants
+</text>
+    </query>
+    <query>
+        <number>4310</number>
+        <text>web
+based
+application
+design
+</text>
+    </query>
+    <query>
+        <number>8381</number>
+        <text>web
+services
+</text>
+    </query>
+    <query>
+        <number>4289</number>
+        <text>web
+technology
+</text>
+    </query>
+    <query>
+        <number>14962</number>
+        <text>mutual
+recognition
+</text>
+    </query>
+    <query>
+        <number>16103</number>
+        <text>mutual
+recognition
+</text>
+    </query>
+    <query>
+        <number>16082</number>
+        <text>client
+subjectieve
+maat
+quality
+life
+</text>
+    </query>
+    <query>
+        <number>7521</number>
+        <text>welfare
+states
+</text>
+    </query>
+    <query>
+        <number>1844</number>
+        <text></text>
+    </query>
+    <query>
+        <number>6402</number>
+        <text>world
+bank
+</text>
+    </query>
+    <query>
+        <number>3481</number>
+        <text>world
+trade
+</text>
+    </query>
+    <query>
+        <number>13123</number>
+        <text>work
+life
+balance
+</text>
+    </query>
+    <query>
+        <number>16382</number>
+        <text>work
+home
+interaction
+</text>
+    </query>
+    <query>
+        <number>2155</number>
+        <text>pressure
+work
+</text>
+    </query>
+    <query>
+        <number>13045</number>
+        <text>teamwork
+</text>
+    </query>
+    <query>
+        <number>1846</number>
+        <text>unemployment
+</text>
+    </query>
+    <query>
+        <number>3326</number>
+        <text>verbs
+</text>
+    </query>
+    <query>
+        <number>1989</number>
+        <text>west
+european
+voting
+systems
+</text>
+    </query>
+    <query>
+        <number>4253</number>
+        <text>science
+ideology
+relation
+</text>
+    </query>
+    <query>
+        <number>2219</number>
+        <text>philosophy
+science
+</text>
+    </query>
+    <query>
+        <number>2325</number>
+        <text>whiplash
+</text>
+    </query>
+    <query>
+        <number>1912</number>
+        <text>whitehead
+</text>
+    </query>
+    <query>
+        <number>1850</number>
+        <text>philosophy
+</text>
+    </query>
+    <query>
+        <number>3341</number>
+        <text>philosophical
+anthropology
+</text>
+    </query>
+    <query>
+        <number>6301</number>
+        <text>philosophical
+psychology
+</text>
+    </query>
+    <query>
+        <number>14902</number>
+        <text>wisdom
+literature
+</text>
+    </query>
+    <query>
+        <number>16805</number>
+        <text>wilderness
+</text>
+    </query>
+    <query>
+        <number>1851</number>
+        <text>profit
+decision
+</text>
+    </query>
+    <query>
+        <number>1852</number>
+        <text>mathematics
+</text>
+    </query>
+    <query>
+        <number>1853</number>
+        <text>mathematical
+economics
+</text>
+    </query>
+    <query>
+        <number>3387</number>
+        <text>exchange
+rate
+</text>
+    </query>
+    <query>
+        <number>2421</number>
+        <text>world
+wide
+web
+</text>
+    </query>
+    <query>
+        <number>5704</number>
+        <text>www
+</text>
+    </query>
+    <query>
+        <number>11543</number>
+        <text>self
+</text>
+    </query>
+    <query>
+        <number>1021</number>
+        <text>self
+image
+</text>
+    </query>
+    <query>
+        <number>16824</number>
+        <text>right
+self
+determination
+</text>
+    </query>
+    <query>
+        <number>9101</number>
+        <text>self
+consciousness
+</text>
+    </query>
+    <query>
+        <number>2115</number>
+        <text>selfconsciousness
+bodily
+awareness
+</text>
+    </query>
+    <query>
+        <number>9882</number>
+        <text>self
+organization
+</text>
+    </query>
+    <query>
+        <number>10541</number>
+        <text>self
+reflection
+</text>
+    </query>
+    <query>
+        <number>15062</number>
+        <text>self
+regulation
+</text>
+    </query>
+    <query>
+        <number>1854</number>
+        <text>self
+regulation
+</text>
+    </query>
+    <query>
+        <number>2218</number>
+        <text>self
+learning
+</text>
+    </query>
+    <query>
+        <number>11541</number>
+        <text>self
+esteem
+</text>
+    </query>
+    <query>
+        <number>13481</number>
+        <text>diseases
+</text>
+    </query>
+    <query>
+        <number>11676</number>
+        <text>soul
+theological
+neuroscientific
+</text>
+    </query>
+    <query>
+        <number>2181</number>
+        <text>interpretation
+</text>
+    </query>
+    <query>
+        <number>1856</number>
+        <text>moral
+mental
+support
+theology
+</text>
+    </query>
+    <query>
+        <number>1900</number>
+        <text>random
+violence
+</text>
+    </query>
+    <query>
+        <number>3340</number>
+        <text>automatic
+parsing
+</text>
+    </query>
+    <query>
+        <number>4290</number>
+        <text>search
+engine
+</text>
+    </query>
+    <query>
+        <number>4841</number>
+        <text>sunday
+s
+rest
+</text>
+    </query>
+    <query>
+        <number>7642</number>
+        <text>care
+</text>
+    </query>
+    <query>
+        <number>8821</number>
+        <text>ethics
+care
+</text>
+    </query>
+    <query>
+        <number>13101</number>
+        <text>health
+care
+utilisation
+</text>
+    </query>
+    <query>
+        <number>16062</number>
+        <text>duty
+care
+</text>
+    </query>
+    <query>
+        <number>11665</number>
+        <text>theories
+care
+</text>
+    </query>
+    <query>
+        <number>11521</number>
+        <text>south
+african
+law
+</text>
+    </query>
+    <query>
+        <number>341</number>
+        <text>south
+african
+constitutional
+law
+</text>
+    </query>
+    <query>
+        <number>16262</number>
+        <text>south
+african
+constitutional
+law
+</text>
+    </query>
+    <query>
+        <number>13863</number>
+        <text>infant
+mortality
+</text>
+    </query>
+    <query>
+        <number>7541</number>
+        <text>pregnancy
+</text>
+    </query>
+    <query>
+        <number>1942</number>
+        <text>pregnancy
+chance
+</text>
+    </query>
+    <query>
+        <number>15042</number>
+        <text>international
+comparative
+environmental
+law
+</text>
+    </query>
+    <query>
+        <number>15322</number>
+        <text>fertility
+</text>
+    </query>
+    <query>
+        <number>15762</number>
+        <text>network
+analysis
+</text>
+    </query>
+    <query>
+        <number>15682</number>
+        <text>economic
+history
+</text>
+    </query>
+    <query>
+        <number>15642</number>
+        <text>asset
+pricing
+</text>
+    </query>
+    <query>
+        <number>16042</number>
+        <text>mood
+</text>
+    </query>
+    <query>
+        <number>15482</number>
+        <text>pension
+economics
+</text>
+    </query>
+    <query>
+        <number>15404</number>
+        <text>european
+economics
+</text>
+    </query>
+    <query>
+        <number>15403</number>
+        <text>trade
+policy
+</text>
+    </query>
+    <query>
+        <number>15402</number>
+        <text>antidumping
+</text>
+    </query>
+    <query>
+        <number>15342</number>
+        <text>external
+relations
+eu
+</text>
+    </query>
+    <query>
+        <number>16043</number>
+        <text>affect
+</text>
+    </query>
+    <query>
+        <number>15882</number>
+        <text>contract
+theory
+</text>
+    </query>
+    <query>
+        <number>15802</number>
+        <text>political
+economy
+</text>
+    </query>
+    <query>
+        <number>15763</number>
+        <text>grounded
+theory
+</text>
+    </query>
+    <query>
+        <number>15164</number>
+        <text>health
+policies
+</text>
+    </query>
+    <query>
+        <number>15044</number>
+        <text>democratisation
+natural
+resources
+</text>
+    </query>
+    <query>
+        <number>14922</number>
+        <text>regulation
+</text>
+    </query>
+    <query>
+        <number>14923</number>
+        <text>payment
+systems
+</text>
+    </query>
+    <query>
+        <number>14924</number>
+        <text>two
+sided
+markets
+</text>
+    </query>
+    <query>
+        <number>1642</number>
+        <text>emigration
+</text>
+    </query>
+    <query>
+        <number>15043</number>
+        <text>legal
+theory
+jurisprudence
+</text>
+    </query>
+    <query>
+        <number>16022</number>
+        <text>economic
+theories
+organization
+</text>
+    </query>
+    <query>
+        <number>16484</number>
+        <text>sensemaking
+</text>
+    </query>
+    <query>
+        <number>17124</number>
+        <text>bilingual
+development
+</text>
+    </query>
+    <query>
+        <number>17123</number>
+        <text>language
+education
+</text>
+    </query>
+    <query>
+        <number>17022</number>
+        <text>roma
+</text>
+    </query>
+    <query>
+        <number>16902</number>
+        <text>mass
+tort
+litigation
+</text>
+    </query>
+    <query>
+        <number>16842</number>
+        <text>developmental
+origins
+behavior
+health
+disease
+</text>
+    </query>
+    <query>
+        <number>16825</number>
+        <text>statehood
+</text>
+    </query>
+    <query>
+        <number>16582</number>
+        <text>political
+economics
+</text>
+    </query>
+    <query>
+        <number>16483</number>
+        <text>refugees
+</text>
+    </query>
+    <query>
+        <number>16242</number>
+        <text>human
+computer
+interaction
+</text>
+    </query>
+    <query>
+        <number>16102</number>
+        <text>european
+criminal
+law
+</text>
+    </query>
+    <query>
+        <number>16482</number>
+        <text>humanitarian
+aid
+</text>
+    </query>
+    <query>
+        <number>16044</number>
+        <text>person
+perception
+</text>
+    </query>
+    <query>
+        <number>16045</number>
+        <text>judgment
+</text>
+    </query>
+</parameters>
