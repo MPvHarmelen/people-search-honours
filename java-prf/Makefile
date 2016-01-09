@@ -1,15 +1,16 @@
 .SUFFIXES: .java .class
-INDEX ?= ../indices/tu-no-expansion-nl+uk-stop
+INDEX ?= ../../indices/tu-no-expansion-nl+uk-stop
 TOPICS_LANG ?= uk
 DOCK ?= 3
 WORDK ?= 8
 MULTIPLY ?= true
-OUTPUT_DIR ?= ../people-search-honours/pseudo-relevance-feedback
-INPUT_DIR ?= ../commandline
+OUTPUT_DIR ?= ../trash
+INPUT_DIR ?= ../commandline-output
 JARGS = $(INPUT_DIR)/topics_$(TOPICS_LANG).xml $(DOCK) $(WORDK) $(MULTIPLY) $(INPUT_DIR)/15_$(TOPICS_LANG)_nl-uk_stop_results.trec $(INDEX) $(OUTPUT_DIR)/topics_$(TOPICS_LANG)_$(WORDK).ldf
 JMAIN = PRF
-JFLAGS = -classpath $(CLASSPATH) -Djava.library.path=../lemur-4.12/swig/obj/java -Djava.util.logging.config.file=log.properties -Djava.util.logging.FileHandler.pattern=warnings.$(WORDK).log
-CLASSPATH = ../lemur-4.12/swig/obj/java/indri.jar:commons-math3-3.5/commons-math3-3.5.jar:.
+LEMUR_DIR=../../lemur-4.12/
+CLASSPATH = $(LEMUR_DIR)/swig/obj/java/indri.jar:commons-math3-3.5/commons-math3-3.5.jar:.
+JFLAGS = -classpath $(CLASSPATH) -Djava.library.path=$(LEMUR_DIR)/swig/obj/java -Djava.util.logging.config.file=log.properties
 # JCFLAGS = -g -classpath $(CLASSPATH)
 JCFLAGS = -classpath $(CLASSPATH)
 JC = javac
