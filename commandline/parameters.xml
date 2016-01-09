@@ -1,0 +1,16 @@
+<parameters>
+    <index>../indices/tu-no-expansion-no-stop/</index>
+
+    <!-- <baseline>tfidf,k1:1.0,b:0.3</baseline> I'm just keeping the default parameter values because I didn't even know tf-idf had parameters in the first place-->
+    <baseline>tfidf</baseline>
+
+    <!-- Number of documents returned -->
+    <count>15</count>
+
+    <!-- Just to explicitly state we DON'T want feedback -->
+    <!-- <fbDocs>0</fbDocs> -->
+    <!-- However, specifing it broke things -->
+
+    <!-- We want trec format because otherwise the query ids disappear -->
+    <trecFormat>1</trecFormat>
+</parameters>
