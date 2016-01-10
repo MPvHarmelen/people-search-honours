@@ -1,4 +1,4 @@
 #!/bin/bash
-for file in $(ls ../confs-ears | grep nl.*no_expansion); do
+for file in $(ls ../confs-ears); do
     ./ears_and_trec.sh ../confs-ears/$file
 done
