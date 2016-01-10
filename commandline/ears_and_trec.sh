@@ -1,4 +1,5 @@
 #!/bin/bash
+OUTPUT_DIR=../output
 
 # Save working directory
 WORKING_DIR=$(pwd)
@@ -7,12 +8,12 @@ WORKING_DIR=$(pwd)
 INPUT_FILE=$(readlink -m $1)
 
 # Create output directory if it doesn't exist
-mkdir -p output
+mkdir -p $OUTPUT_DIR
 
 # Run ears
-cd ..
+cd ../..
 ears-reloaded/ears ef $INPUT_FILE
 
 # Run trec_eval
 cd $WORKING_DIR
-./trec_eval.sh output/$(expr $INPUT_FILE : '.*/\(.*\)\.conf').out
+./trec_eval.sh $OUTPUT_DIR/$(expr $INPUT_FILE : '.*/\(.*\)\.conf').trec

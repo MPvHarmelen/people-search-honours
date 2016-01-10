@@ -1,3 +1,4 @@
+#!/bin/bash
 LANGUAGES="nl uk"
 WORDKS="1 2 4 8 16"
 WORKING_DIR="../java-prf/"
