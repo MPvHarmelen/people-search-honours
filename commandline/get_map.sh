@@ -12,7 +12,7 @@ for MODEL in $MODELS; do
 for EXPANSION_METHOD in $EXPANSION_METHODS; do
 for GT in $GTS; do
     echo "$LANGUAGE $SMOOTHING_METHOD model $MODEL $EXPANSION_METHOD gt$GT"
-    FILES=$(ls -1v ../trec_out/ | grep -P "tu-$LANGUAGE-model$MODEL-$SMOOTHING_METHOD-$EXPANSION_METHOD-\d+\.gt$GT" | awk '{print "../trec_out/"$0}')
+    FILES=$(ls -1v ../trec_out/ | grep -P "tu-$LANGUAGE-model$MODEL-$SMOOTHING_METHOD-($EXPANSION_METHOD-\d+|no_expansion)\.gt$GT" | awk '{print "../trec_out/"$0}')
     # for FILE in $FILES; do
     #     echo $FILE
     # done
