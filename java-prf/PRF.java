@@ -74,7 +74,7 @@ class PRF {
         //     expandedQueries.add(expandQuery(index, query));
         // }
 
-        RealVector tfIDFVector = calculateTFIDFVector(index);
+        RealVector idfVector = calculateIDFVector(index);
 
         LOGGER.info("Expanding queries");
         QueryWithID query;
@@ -88,7 +88,7 @@ class PRF {
                     termK,
                     multiplyByWordk,
                     queryResults,
-                    tfIDFVector
+                    idfVector
                 )
             );
             // break;
@@ -118,7 +118,7 @@ class PRF {
                 int termK,
                 boolean multiplyByWordk,
                 Map<String, QueryResult[]> queryResults,
-                RealVector tfIDFVector
+                RealVector idfVector
             ) throws Exception {
         LOGGER.finer("Expanding " + query.getID());
         QueryResult[] topDocuments = queryResults.get(query.getID());
@@ -144,7 +144,7 @@ class PRF {
         }
 
         // idf
-        vector = vector.ebeMultiply(tfIDFVector);
+        vector = vector.ebeMultiply(idfVector);
         // Sort terms and choose top termK that aren't in the query
         if (multiplyByWordk) {
             termK *= query.getTerms().length;
@@ -304,7 +304,7 @@ class PRF {
         return (new ArrayRealVector(vectorArray)).unitVector();
     }
 
-    private static RealVector calculateTFIDFVector(Index index) throws Exception {
+    private static RealVector calculateIDFVector(Index index) throws Exception {
         // idf = log (|D| / #D with t in D)
         // double idf;
         double docCount = index.docCount();
